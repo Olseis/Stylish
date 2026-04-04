@@ -1,0 +1,307 @@
+[
+  {
+    "nombre": "Chickaboo",
+    "categoria": "Feather Fashion",
+    "color": "Eggshell",
+    "rarity": "BASIC",
+    "imagen": "img/rides/1.png"
+  },
+  {
+    "nombre": "Chickaboo",
+    "categoria": "Feather Fashion",
+    "color": "Emberclaw",
+    "rarity": "BASIC",
+    "imagen": "img/rides/2.png"
+  },
+  {
+    "nombre": "Chickaboo",
+    "categoria": "Feather Fashion",
+    "color": "Blazewing",
+    "rarity": "BASIC",
+    "imagen": "img/rides/3.png"
+  },
+
+  {
+    "nombre": "Dreadtide Taillix",
+    "categoria": "Eldritch Horror",
+    "color": "Scarlet Abyss",
+    "rarity": "EPIC",
+    "imagen": "img/rides/4.png"
+  },
+  {
+    "nombre": "Taillix",
+    "categoria": "Fox Fashion",
+    "color": "Ambercoat",
+    "rarity": "BASIC",
+    "imagen": "img/rides/5.png"
+  },
+  {
+    "nombre": "Taillix",
+    "categoria": "Fox Fashion",
+    "color": "Pricklepaw",
+    "rarity": "EPIC",
+    "imagen": "img/rides/6.png"
+  },
+  {
+    "nombre": "Taillix",
+    "categoria": "Fox Fashion",
+    "color": "Ashfall",
+    "rarity": "BASIC",
+    "imagen": "img/rides/7.png"
+  },
+
+  {
+    "nombre": "Groak",
+    "categoria": "Wayward Warrior",
+    "color": "Hell Hound",
+    "rarity": "BASIC",
+    "imagen": "img/rides/8.png"
+  },
+  {
+    "nombre": "Shoryu Groak",
+    "categoria": "Modern Yokai",
+    "color": "Yamiryu",
+    "rarity": "EPIC",
+    "imagen": "img/rides/9.png"
+  },
+  {
+    "nombre": "Scaleclad Groak",
+    "categoria": "Dragon Wear",
+    "color": "Sunfire",
+    "rarity": "EPIC",
+    "imagen": "img/rides/10.png"
+  },
+  {
+    "nombre": "Radioactive Groak",
+    "categoria": "Fallout Fashion",
+    "color": "Goop",
+    "rarity": "LEGENDARY",
+    "imagen": "img/rides/11.png"
+  },
+  {
+    "nombre": "Radioactive Groak",
+    "categoria": "Fallout Fashion",
+    "color": "Slime",
+    "rarity": "LEGENDARY",
+    "imagen": "img/rides/12.png"
+  },
+
+  {
+    "nombre": "Armored Tauron",
+    "categoria": "Mecha Mythical",
+    "color": "Rose Quartz",
+    "rarity": "LEGENDARY",
+    "imagen": "img/rides/13.png"
+  },
+  {
+    "nombre": "Armored Tauron",
+    "categoria": "Mecha Mythical",
+    "color": "Moonlit Shadow",
+    "rarity": "LEGENDARY",
+    "imagen": "img/rides/14.png"
+  },
+
+  {
+    "nombre": "Victory Dodokeet",
+    "categoria": "Mo.Co Sports",
+    "color": "Flash Yellow",
+    "rarity": "BASIC",
+    "imagen": "img/rides/15.png"
+  },
+  {
+    "nombre": "Victory Dodokeet",
+    "categoria": "Mo.Co Sports",
+    "color": "Velocity Red",
+    "rarity": "BASIC",
+    "imagen": "img/rides/16.png"
+  },
+  {
+    "nombre": "Sugar Dodokeet",
+    "categoria": "Candied Punk",
+    "color": "Cherry",
+    "rarity": "LEGENDARY",
+    "imagen": "img/rides/17.png"
+  },
+
+  {
+    "nombre": "Valiant Stridebolt",
+    "categoria": "Elemental Medieval",
+    "color": "Molten",
+    "rarity": "EPIC",
+    "imagen": "img/rides/18.png"
+  },
+  {
+    "nombre": "Lamenting Stridebolt",
+    "categoria": "Eldritch Horror",
+    "color": "Scarlet Abyss",
+    "rarity": "LEGENDARY",
+    "imagen": "img/rides/19.png"
+  },
+  {
+    "nombre": "Victory Stridebolt",
+    "categoria": "Mo.Co Sports",
+    "color": "Velocity Red",
+    "rarity": "BASIC",
+    "imagen": "img/rides/20.png"
+  },
+
+  {
+    "nombre": "Ōsanshōuo Geckorin",
+    "categoria": "Modern Yokai",
+    "color": "Aokage",
+    "rarity": "EPIC",
+    "imagen": "img/rides/21.png"
+  },
+  {
+    "nombre": "Ōsanshōuo Geckorin",
+    "categoria": "Modern Yokai",
+    "color": "Amaterasu",
+    "rarity": "EPIC",
+    "imagen": "img/rides/22.png"
+  },
+
+  {
+    "nombre": "Unstoppaball Monorider",
+    "categoria": "Mo.Co Sports",
+    "color": "Hyper Blue",
+    "rarity": "LEGENDARY",
+    "imagen": "img/rides/23.png"
+  },
+
+  {
+    "nombre": "Shimmering Wisp",
+    "categoria": "Prismatic Bugs",
+    "color": "Radiant Purple",
+    "rarity": "LEGENDARY",
+    "imagen": "img/rides/24.png"
+  },
+  {
+    "nombre": "Shimmering Wisp",
+    "categoria": "Prismatic Bugs",
+    "color": "Vivid Green",
+    "rarity": "LEGENDARY",
+    "imagen": "img/rides/25.png"
+  },
+
+  {
+    "nombre": "Cross Eyed Himalax",
+    "categoria": "Silly Monster",
+    "color": "Rid",
+    "rarity": "LEGENDARY",
+    "imagen": "img/rides/26.png"
+  },
+
+  {
+    "nombre": "Hugmy Chonk",
+    "categoria": "Glaim Love",
+    "color": "Purple Reing",
+    "rarity": "EPIC",
+    "imagen": "img/rides/27.png"
+  },
+  {
+    "nombre": "Hugmy Chonk",
+    "categoria": "Glaim Love",
+    "color": "Vitamin Me",
+    "rarity": "EPIC",
+    "imagen": "img/rides/28.png"
+  },
+  {
+    "nombre": "Nurse Chonk",
+    "categoria": "Street Medic",
+    "color": "Nauseous",
+    "rarity": "EPIC",
+    "imagen": "img/rides/29.png"
+  },
+
+  {
+    "nombre": "Zosarian Hexabeast",
+    "categoria": "Zosar",
+    "color": "Golden Sun",
+    "rarity": "LEGENDARY",
+    "imagen": "img/rides/30.png"
+  },
+  {
+    "nombre": "Hexabeast",
+    "categoria": "Feudal Feral",
+    "color": "Plum Shade",
+    "rarity": "EPIC",
+    "imagen": "img/rides/31.png"
+  },
+  {
+    "nombre": "Hexabeast",
+    "categoria": "Feudal Feral",
+    "color": "Ember Tongue",
+    "rarity": "EPIC",
+    "imagen": "img/rides/32.png"
+  },
+
+  {
+    "nombre": "Heatkeeper Llambra",
+    "categoria": "Warriors of Light",
+    "color": "Ivory Milk",
+    "rarity": "EPIC",
+    "imagen": "img/rides/32.png"
+  },
+
+  {
+    "nombre": "Hungry Screechums",
+    "categoria": "Silly Monster",
+    "color": "Broken Boulders",
+    "rarity": "BASIC",
+    "imagen": "img/rides/33.png"
+  },
+  {
+    "nombre": "Hungry Screechums",
+    "categoria": "Silly Monster",
+    "color": "Dusty Rocks",
+    "rarity": "BASIC",
+    "imagen": "img/rides/34.png"
+  },
+
+  {
+    "nombre": "Alpine Glidon (?)",
+    "categoria": "Yrsa",
+    "color": "?",
+    "rarity": "?",
+    "imagen": "img/rides/35.png"
+  },
+
+  {
+    "nombre": "Alpine Glidon",
+    "categoria": "Yrsa",
+    "color": "Midnight Sun",
+    "rarity": "BASIC",
+    "imagen": "img/rides/36.png"
+  },
+  {
+    "nombre": "Alpine Glidon",
+    "categoria": "Yrsa",
+    "color": "Polar Night",
+    "rarity": "EPIC",
+    "imagen": "img/rides/37.png"
+  },
+
+  {
+    "nombre": "Phantom Gnarlay",
+    "categoria": "Akuma",
+    "color": "Firewall",
+    "rarity": "EPIC",
+    "imagen": "img/rides/38.png"
+  },
+  {
+    "nombre": "Deco Gnarlay",
+    "categoria": "Noir Night",
+    "color": "Prosecutor Gray",
+    "rarity": "EPIC",
+    "imagen": "img/rides/39.png"
+  },
+
+  {
+    "nombre": "?",
+    "categoria": "The Essentials",
+    "color": "?",
+    "rarity": "BASIC",
+    "imagen": "img/rides/40.png"
+  }
+
+]

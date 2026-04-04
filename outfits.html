@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Outfits</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <body class="fondo-outfits"></body>
+    <img src="img/amarillo.png" alt="Encabezado" class="header-img">
+
+       <nav class="menu-navegacion">
+        <div class="enlaces">
+            <a href="index.html"><img src="img/home.png" class="icono-nav" alt="Home"> Home</a>
+            <a href="outfits.html"><img src="img/outfits.png" class="icono-nav" alt="Outfits"> Outfits</a>
+            <a href="hats.html"><img src="img/hats.png" class="icono-nav" alt="Hats"> Hats</a>        
+            <a href="rides.html"><img src="img/rides.png" class="icono-nav" alt="Rides"> Rides</a>
+        </div>
+        <input type="text" id="buscador" placeholder="Buscar prenda...">
+    </nav>
+
+    <main class="galeria">
+        
+        <div class="tarjeta-item">
+            <img src="imagen1.jpg" alt="Foto del artículo">
+            <div class="tarjeta-info">
+                <h3>Nombre de la prenda 1</h3>
+                <p>Esta es la descripción detallada. El buscador leerá este texto, así que pon palabras clave como color, talla o estilo.</p>
+            </div>
+        </div>
+        <div class="tarjeta-item">
+            <img src="imagen2.jpg" alt="Foto del artículo">
+            <div class="tarjeta-info">
+                <h3>Nombre de la prenda 2</h3>
+                <p>Otra descripción. Copia el bloque de arriba para seguir añadiendo cosas sin límite.</p>
+            </div>
+        </div>
+
+        <div id="no-resultados" class="no-resultados">No se encontraron resultados para tu búsqueda.</div>
+        
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
