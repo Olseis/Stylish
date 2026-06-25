@@ -1,4 +1,4 @@
-# Stylish web by V-21
+# Stylish web by Olseis Games
 
 # Web made just for fun and help game community to choose outfits
 # Special thanks to Sedox62 for sharing all his items.
