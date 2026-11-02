@@ -1,0 +1,829 @@
+{
+ "species": [
+  {
+   "name": "Cluckaboo",
+   "variants": [
+    {
+     "collection": "Feather Fashion",
+     "source": "Story Quest\nManny's Remix",
+     "model": null,
+     "name": "Eggshell (White)",
+     "rarity": "Basic",
+     "image": "img/rides/cluckaboo-feather-fashion-eggshell-white.webp"
+    },
+    {
+     "collection": "Feather Fashion",
+     "source": "Token Gacha\nManny's Remix",
+     "model": null,
+     "name": "Emberclaw",
+     "rarity": "Basic",
+     "image": "img/rides/cluckaboo-feather-fashion-emberclaw.webp"
+    },
+    {
+     "collection": "Feather Fashion",
+     "source": "Token Gacha\nManny's Remix",
+     "model": null,
+     "name": "Blazewing",
+     "rarity": "Basic",
+     "image": "img/rides/cluckaboo-feather-fashion-blazewing.webp"
+    },
+    {
+     "collection": "Feather Fashion",
+     "source": "Neo Moco Gift",
+     "model": null,
+     "name": "Glintwing",
+     "rarity": "Basic",
+     "image": "img/rides/cluckaboo-feather-fashion-glintwing.webp"
+    },
+    {
+     "collection": "Feather Fashion",
+     "source": "Elite Merch",
+     "model": "Rainforest Majesty",
+     "name": null,
+     "rarity": "Epic",
+     "image": "img/rides/cluckaboo-feather-fashion-rainforest-majesty.webp"
+    },
+    {
+     "collection": "MIN",
+     "source": "R&D: K-POP MIN Pass",
+     "model": "Peckgwi",
+     "name": "Blue Flame",
+     "rarity": "Basic",
+     "image": "img/rides/cluckaboo-min-blue-flame.webp"
+    },
+    {
+     "collection": "MIN",
+     "source": "S2 Final Stretch Sprint",
+     "model": "Peckgwi",
+     "name": "Sorry Seori",
+     "rarity": "Basic",
+     "image": "img/rides/cluckaboo-min-sorry-seori.webp"
+    },
+    {
+     "collection": "Storm Weaver",
+     "source": "Storm Weaver Premium Sprint",
+     "model": "Cloud Palace",
+     "name": "Sapphire",
+     "rarity": "Epic",
+     "image": "img/rides/cluckaboo-storm-weaver-sapphire.webp"
+    }
+   ]
+  },
+  {
+   "name": "Chonk",
+   "variants": [
+    {
+     "collection": "Glaim Love",
+     "source": "Pass",
+     "model": "Hugmy Chonk",
+     "name": "Purple Reing",
+     "rarity": "Epic",
+     "image": "img/rides/chonk-glaim-love-purple-reing.webp"
+    },
+    {
+     "collection": "Glaim Love",
+     "source": "Pass",
+     "model": "Hugmy Chonk",
+     "name": "Vitamin Me",
+     "rarity": "Epic",
+     "image": "img/rides/chonk-glaim-love-vitamin-me.webp"
+    },
+    {
+     "collection": "Medicine Ball",
+     "source": "Medicine Ball Premium Sprint",
+     "model": "Patient Transport Chonk",
+     "name": "Night Team",
+     "rarity": "Epic",
+     "image": "img/rides/chonk-medicine-ball-night-team.webp"
+    },
+    {
+     "collection": "Medicine Ball",
+     "source": "S4 Final Stretch",
+     "model": "Patient Transport Chonk",
+     "name": "Squeaky Clean",
+     "rarity": "Epic",
+     "image": "img/rides/chonk-medicine-ball-squeaky-clean.webp"
+    },
+    {
+     "collection": "Street Medic",
+     "source": "Ch 2. Free Pass",
+     "model": "Nurse Chonk",
+     "name": "Nauseous",
+     "rarity": "Epic",
+     "image": "img/rides/chonk-street-medic-nauseous.webp"
+    }
+   ]
+  },
+  {
+   "name": "Dodokeet",
+   "variants": [
+    {
+     "collection": "Candied Punk",
+     "source": "Mo. Gold Gacha",
+     "model": "Sugar Dodokeet",
+     "name": "Cherry",
+     "rarity": "Legendary",
+     "image": "img/rides/dodokeet-candied-punk-cherry.webp"
+    },
+    {
+     "collection": "Candied Punk",
+     "source": "Pass",
+     "model": "Sugar Dodokeet",
+     "name": "Bubblegum",
+     "rarity": "Legendary",
+     "image": "img/rides/dodokeet-candied-punk-bubblegum.webp"
+    },
+    {
+     "collection": "Mo.Co Sports",
+     "source": "Pass",
+     "model": "Victory Dodokeet",
+     "name": "Flash Yellow",
+     "rarity": "Basic",
+     "image": "img/rides/dodokeet-mo-co-sports-flash-yellow.webp"
+    },
+    {
+     "collection": "Mo.Co Sports",
+     "source": "Pass\nShop Offer (Starter Kit)",
+     "model": "Victory Dodokeet",
+     "name": "Velocity Red",
+     "rarity": "Basic",
+     "image": "img/rides/dodokeet-mo-co-sports-velocity-red.webp"
+    },
+    {
+     "collection": "Mo.Co Sports",
+     "source": "Pass",
+     "model": "Victory Dodokeet",
+     "name": "Hyper Blue",
+     "rarity": "Basic",
+     "image": "img/rides/dodokeet-mo-co-sports-hyper-blue.webp"
+    },
+    {
+     "collection": "Mo.Co Sports",
+     "source": "Pass",
+     "model": "Victory Dodokeet",
+     "name": "Purple Pulse",
+     "rarity": "Basic",
+     "image": "img/rides/dodokeet-mo-co-sports-purple-pulse.webp"
+    }
+   ]
+  },
+  {
+   "name": "Escargoo",
+   "variants": [
+    {
+     "collection": "Street Droid",
+     "source": "Techno Fist Premium Sprint",
+     "model": "Armored Escargoo",
+     "name": "Orange",
+     "rarity": "Legendary",
+     "image": "img/rides/escargoo-street-droid-orange.webp"
+    }
+   ]
+  },
+  {
+   "name": "Geckorin",
+   "variants": [
+    {
+     "collection": "Lava Shield",
+     "source": "Lava Shield Premium Sprint",
+     "model": "Bedrock Geckorin",
+     "name": "Camelian",
+     "rarity": "Epic",
+     "image": "img/rides/geckorin-lava-shield-camelian.webp"
+    },
+    {
+     "collection": "Modern Yokai",
+     "source": "Pass",
+     "model": "Ōsanshōuo Geckorin",
+     "name": "Aokage",
+     "rarity": "Epic",
+     "image": "img/rides/geckorin-modern-yokai-aokage.webp"
+    },
+    {
+     "collection": "Modern Yokai",
+     "source": null,
+     "model": "Ōsanshōuo Geckorin",
+     "name": "Amaterasu",
+     "rarity": "Epic",
+     "image": "img/rides/geckorin-modern-yokai-amaterasu.webp"
+    },
+    {
+     "collection": "Modern Yokai",
+     "source": "Pass\nShop Offer",
+     "model": "Ōsanshōuo Geckorin",
+     "name": "Kurenai",
+     "rarity": "Epic",
+     "image": "img/rides/geckorin-modern-yokai-kurenai.webp"
+    }
+   ]
+  },
+  {
+   "name": "Glidon",
+   "variants": [
+    {
+     "collection": "Cyber Racer",
+     "source": "Mo.Gold Gacha",
+     "model": "Eclipse Runner Glidon",
+     "name": "Coreflare",
+     "rarity": "Legendary",
+     "image": "img/rides/glidon-cyber-racer-coreflare.webp"
+    },
+    {
+     "collection": "Sidewalk Syndicate",
+     "source": "Pass",
+     "model": "Janky Glidon",
+     "name": "Jelly",
+     "rarity": "Basic",
+     "image": "img/rides/glidon-sidewalk-syndicate-jelly.webp"
+    },
+    {
+     "collection": "Wolf Stick",
+     "source": "Wolf Stick Premium Sprint",
+     "model": "Dual Mode",
+     "name": null,
+     "rarity": "Epic",
+     "image": "img/rides/glidon-wolf-stick-dual-mode.webp"
+    },
+    {
+     "collection": "YRSA",
+     "source": "Pass",
+     "model": "Alpine Glidon",
+     "name": "Polar Night",
+     "rarity": "Epic",
+     "image": "img/rides/glidon-yrsa-polar-night.webp"
+    },
+    {
+     "collection": "YRSA",
+     "source": "Pass",
+     "model": "Alpine Glidon",
+     "name": "Midnight Sun",
+     "rarity": "Epic",
+     "image": "img/rides/glidon-yrsa-midnight-sun.webp"
+    }
+   ]
+  },
+  {
+   "name": "Gnarley",
+   "variants": [
+    {
+     "collection": "Akuma",
+     "source": "Akuma Character Pass\nShop Offer (Mo.Gold)",
+     "model": "Phantom Gnarley",
+     "name": "Firewall",
+     "rarity": "Epic",
+     "image": "img/rides/gnarley-akuma-firewall.webp"
+    },
+    {
+     "collection": "Akuma",
+     "source": "R&D: Akuma Pass",
+     "model": "Phantom Gnarley",
+     "name": "Glitchwave",
+     "rarity": "Epic",
+     "image": "img/rides/gnarley-akuma-glitchwave.webp"
+    },
+    {
+     "collection": "Noir Night",
+     "source": "Ch 2. Free Pass",
+     "model": "Deco Gnarley",
+     "name": "Prosecutor Gray",
+     "rarity": "Epic",
+     "image": "img/rides/gnarley-noir-night-prosecutor-gray.webp"
+    },
+    {
+     "collection": "Noir Night",
+     "source": "Singularity Premium Sprint",
+     "model": "Deco Gnarley",
+     "name": "Smoke Cloud",
+     "rarity": "Epic",
+     "image": "img/rides/gnarley-noir-night-smoke-cloud.webp"
+    },
+    {
+     "collection": "Sidewalk Syndicate",
+     "source": "Token Gacha\nManny's Remix",
+     "model": "Deco Gnarley",
+     "name": "Speed Bump Moss",
+     "rarity": "Basic",
+     "image": "img/rides/gnarley-sidewalk-syndicate-speed-bump-moss.webp"
+    }
+   ]
+  },
+  {
+   "name": "Groak",
+   "variants": [
+    {
+     "collection": "Dragon Wear",
+     "source": "Ch 1. Elite Pass",
+     "model": "Scaleclad Groak",
+     "name": "Sunfire",
+     "rarity": "Epic",
+     "image": "img/rides/groak-dragon-wear-sunfire.webp"
+    },
+    {
+     "collection": "Fallout Fashion",
+     "source": "Ch 2. Elite Pass",
+     "model": "Radioactive Groak",
+     "name": "Goop",
+     "rarity": "Legendary",
+     "image": "img/rides/groak-fallout-fashion-goop.webp"
+    },
+    {
+     "collection": "Fallout Fashion",
+     "source": "Pass",
+     "model": "Radioactive Groak",
+     "name": "Slime",
+     "rarity": "Legendary",
+     "image": "img/rides/groak-fallout-fashion-slime.webp"
+    },
+    {
+     "collection": "Modern Yokai",
+     "source": "Pass",
+     "model": "SHoryu Groak",
+     "name": "Yamiryu",
+     "rarity": "Epic",
+     "image": "img/rides/groak-modern-yokai-yamiryu.webp"
+    },
+    {
+     "collection": "Venom Bow",
+     "source": "Mo.Gold Gacha (Completion)",
+     "model": "Anti-Antidote Groak",
+     "name": "Faded Beauty",
+     "rarity": "Legendary",
+     "image": "img/rides/groak-venom-bow-faded-beauty.webp"
+    },
+    {
+     "collection": "Vibe Shifter",
+     "source": "Vibe Shifter Premium Sprint",
+     "model": "Still Kickin' Groak",
+     "name": "Black Bile",
+     "rarity": "Epic",
+     "image": "img/rides/groak-vibe-shifter-black-bile.webp"
+    },
+    {
+     "collection": "Vibe Shifter",
+     "source": "S1 Final Stretch Sprint",
+     "model": "Still Kickin' Groak",
+     "name": "Scrub Red",
+     "rarity": "Epic",
+     "image": "img/rides/groak-vibe-shifter-scrub-red.webp"
+    },
+    {
+     "collection": "Wayward Warrior",
+     "source": "Shop Offer",
+     "model": null,
+     "name": "Hellhound",
+     "rarity": "Basic",
+     "image": "img/rides/groak-wayward-warrior-hellhound.webp"
+    }
+   ]
+  },
+  {
+   "name": "Hexabeast",
+   "variants": [
+    {
+     "collection": "Feudal Feral",
+     "source": "Mo.Gold Gacha",
+     "model": null,
+     "name": "Plum Shade",
+     "rarity": "Epic",
+     "image": "img/rides/hexabeast-feudal-feral-plum-shade.webp"
+    },
+    {
+     "collection": "Feudal Feral",
+     "source": "Mo.Gold Gacha",
+     "model": null,
+     "name": "Ember Tongue",
+     "rarity": "Epic",
+     "image": "img/rides/hexabeast-feudal-feral-ember-tongue.webp"
+    },
+    {
+     "collection": "MIN",
+     "source": "Shop Offer ($)",
+     "model": "Haetae Prime Hexabeast",
+     "name": "New Denim",
+     "rarity": "Legendary",
+     "image": "img/rides/hexabeast-min-new-denim.webp"
+    },
+    {
+     "collection": "MIN",
+     "source": "Mo.Gold Gacha",
+     "model": "Haetae Prime Hexabeast",
+     "name": "Ultra Bora",
+     "rarity": "Legendary",
+     "image": "img/rides/hexabeast-min-ultra-bora.webp"
+    },
+    {
+     "collection": "Vibe Shifter",
+     "source": "Shop Offer ($)",
+     "model": "Dark Lifegiver Hexabeast",
+     "name": "Black Bile",
+     "rarity": "Legendary",
+     "image": "img/rides/hexabeast-vibe-shifter-black-bile.webp"
+    },
+    {
+     "collection": "Vibe Shifter",
+     "source": "Mo.Gold Gacha",
+     "model": "Dark Lifegiver Hexabeast",
+     "name": "Scrub Red",
+     "rarity": "Legendary",
+     "image": "img/rides/hexabeast-vibe-shifter-scrub-red.webp"
+    },
+    {
+     "collection": "Zosar",
+     "source": "Mo.Gold Gacha",
+     "model": "Zosarian Hexabeast",
+     "name": "Golden Sun",
+     "rarity": "Legendary",
+     "image": "img/rides/hexabeast-zosar-golden-sun.webp"
+    }
+   ]
+  },
+  {
+   "name": "Himalax",
+   "variants": [
+    {
+     "collection": "Silly Monster",
+     "source": "Unreleased / Supercell Creator Giveaway",
+     "model": "Cross Eyed Himalax",
+     "name": "Bloo",
+     "rarity": "Basic",
+     "image": "img/rides/himalax-silly-monster-bloo.webp"
+    },
+    {
+     "collection": "Silly Monster",
+     "source": "Unreleased / Supercell Creator Giveaway",
+     "model": "Cross Eyed Himalax",
+     "name": "Yailoh",
+     "rarity": "Basic",
+     "image": "img/rides/himalax-silly-monster-yailoh.webp"
+    },
+    {
+     "collection": "Silly Monster",
+     "source": "Mo.Gold Gacha",
+     "model": "Cross Eyed Himalax",
+     "name": "Rid",
+     "rarity": "Legendary",
+     "image": "img/rides/himalax-silly-monster-rid.webp"
+    }
+   ]
+  },
+  {
+   "name": "Llambra",
+   "variants": [
+    {
+     "collection": "Hornbow",
+     "source": "Hornbow Premium Sprint",
+     "model": "Edgy Llambra",
+     "name": "Terror Teal",
+     "rarity": "Epic",
+     "image": "img/rides/llambra-hornbow-terror-teal.webp"
+    },
+    {
+     "collection": "Warriors of Light",
+     "source": "Mo.Gold Gacha\nShop Offer",
+     "model": "Heatkeeper Llambra",
+     "name": "Ivory Milk",
+     "rarity": "Epic",
+     "image": "img/rides/llambra-warriors-of-light-ivory-milk.webp"
+    },
+    {
+     "collection": "Warriors of Light",
+     "source": "Mo.Gold Gacha",
+     "model": "Heatkeeper Llambra",
+     "name": "Kermes Crimson",
+     "rarity": "Epic",
+     "image": "img/rides/llambra-warriors-of-light-kermes-crimson.webp"
+    },
+    {
+     "collection": "Zapsicle",
+     "source": "Vibe Shifter Sprint",
+     "model": "Docile Llambra",
+     "name": "Winter Frost",
+     "rarity": "Basic",
+     "image": "img/rides/llambra-zapsicle-winter-frost.webp"
+    }
+   ]
+  },
+  {
+   "name": "Legmaster 9000",
+   "variants": [
+    {
+     "collection": "Aerobics Apocalypse",
+     "source": "Aerobics Apocalypse: Mo.Gold Gacha\nCompletion Reward",
+     "model": "Legmaster 9000",
+     "name": "Zero Gravity Blue",
+     "rarity": "Legendary",
+     "image": "img/rides/legmaster-9000-aerobics-apocalypse-zero-gravity-blue.webp"
+    }
+   ]
+  },
+  {
+   "name": "Mantis",
+   "variants": [
+    {
+     "collection": "Fancy Wrench",
+     "source": "Fancy Wrench Premium Sprint",
+     "model": "Mechanical Mantis",
+     "name": "Tangineer",
+     "rarity": "Epic",
+     "image": "img/rides/mantis-fancy-wrench-tangineer.webp"
+    },
+    {
+     "collection": "Marshall Columbia",
+     "source": "Mo.Gold Gacha",
+     "model": "Slaying Mantis",
+     "name": "Aurora",
+     "rarity": "Epic",
+     "image": "img/rides/mantis-marshall-columbia-aurora.webp"
+    }
+   ]
+  },
+  {
+   "name": "Minisaur",
+   "variants": [
+    {
+     "collection": "Wayward Warrior",
+     "source": "Neo Moco Rewards",
+     "model": "Chillborn Minisaur",
+     "name": "Frosted Gold",
+     "rarity": "Legendary",
+     "image": "img/rides/minisaur-wayward-warrior-frosted-gold.webp"
+    }
+   ]
+  },
+  {
+   "name": "Mono",
+   "variants": [
+    {
+     "collection": "Fancy Wrench",
+     "source": "Mo.Gold Gacha",
+     "model": "Interdimensional Monobike",
+     "name": "Purplexing",
+     "rarity": "Legendary",
+     "image": "img/rides/mono-fancy-wrench-purplexing.webp"
+    },
+    {
+     "collection": "Mo.Co Sports",
+     "source": "Shop Offer",
+     "model": "Unstoppable Monorider",
+     "name": "Hyper Blue",
+     "rarity": "Legendary",
+     "image": "img/rides/mono-mo-co-sports-hyper-blue.webp"
+    },
+    {
+     "collection": "Squid Blades",
+     "source": "Squid Blades Premium Sprint",
+     "model": "Extra Squiddy Monobike",
+     "name": "Sea Foam",
+     "rarity": "Epic",
+     "image": "img/rides/mono-squid-blades-sea-foam.webp"
+    }
+   ]
+  },
+  {
+   "name": "Screechums",
+   "variants": [
+    {
+     "collection": "Head Banger",
+     "source": "Mo.Gold Gacha",
+     "model": "Screeching Screechums",
+     "name": "Broken Vocal",
+     "rarity": "Legendary",
+     "image": "img/rides/screechums-head-banger-broken-vocal.webp"
+    },
+    {
+     "collection": "Pyro",
+     "source": "Pyro Premium Sprint",
+     "model": "Flamebat Screechums",
+     "name": "Daybreak",
+     "rarity": "Epic",
+     "image": "img/rides/screechums-pyro-daybreak.webp"
+    },
+    {
+     "collection": "Silly Monster",
+     "source": "Mo.Gold Gacha",
+     "model": "Hungry Screechums",
+     "name": "Broken Boulders",
+     "rarity": "Basic",
+     "image": "img/rides/screechums-silly-monster-broken-boulders.webp"
+    },
+    {
+     "collection": "Silly Monster",
+     "source": "Mo.Gold Gacha",
+     "model": "Hungry Screechums",
+     "name": "Dusty Rocks",
+     "rarity": "Basic",
+     "image": "img/rides/screechums-silly-monster-dusty-rocks.webp"
+    },
+    {
+     "collection": "Wolf Stick",
+     "source": "Mo.Gold Gacha",
+     "model": "Split Take Screechums",
+     "name": "Sky High",
+     "rarity": "Legendary",
+     "image": "img/rides/screechums-wolf-stick-sky-high.webp"
+    },
+    {
+     "collection": "Wolf Stick",
+     "source": "Shop Offer ($$)",
+     "model": "Split Take Screechums",
+     "name": "Sunflare",
+     "rarity": "Legendary",
+     "image": "img/rides/screechums-wolf-stick-sunflare.webp"
+    }
+   ]
+  },
+  {
+   "name": "Stridebolt",
+   "variants": [
+    {
+     "collection": "Eldritch Horror",
+     "source": "Ch 1. Elite Pass",
+     "model": "Lamenting Stridebolt",
+     "name": "Scarlet Abyss",
+     "rarity": "Legendary",
+     "image": "img/rides/stridebolt-eldritch-horror-scarlet-abyss.webp"
+    },
+    {
+     "collection": "Elemental Medieval",
+     "source": "Pass",
+     "model": "Valiant Stridebolt",
+     "name": "Molten",
+     "rarity": "Epic",
+     "image": "img/rides/stridebolt-elemental-medieval-molten.webp"
+    },
+    {
+     "collection": "Ferocious Flora",
+     "source": "Mo.Gold Gacha (Completion)\nShop Offer (Mo.gold)",
+     "model": "Deathflower Stridebolt",
+     "name": "Chlorokill",
+     "rarity": "Epic",
+     "image": "img/rides/stridebolt-ferocious-flora-chlorokill.webp"
+    },
+    {
+     "collection": "Mo.Co Sports",
+     "source": "Elite Merch",
+     "model": "Victory Stridebolt",
+     "name": "Flash Yellow",
+     "rarity": "Basic",
+     "image": "img/rides/stridebolt-mo-co-sports-flash-yellow.webp"
+    },
+    {
+     "collection": "Mo.Co Sports",
+     "source": "Pass",
+     "model": "Victory Stridebolt",
+     "name": "Velocity Red",
+     "rarity": "Basic",
+     "image": "img/rides/stridebolt-mo-co-sports-velocity-red.webp"
+    },
+    {
+     "collection": "Storm Weaver",
+     "source": "Shop Offer (Mo.Gold, $$)",
+     "model": "Celestial Throne Stridebolt",
+     "name": "Sapphire",
+     "rarity": "Legendary",
+     "image": "img/rides/stridebolt-storm-weaver-sapphire.webp"
+    }
+   ]
+  },
+  {
+   "name": "Taillix",
+   "variants": [
+    {
+     "collection": "Blood Sucker",
+     "source": "Blood Sucker Premium Sprint",
+     "model": "Nightmare Taillix",
+     "name": "Ravenfeather",
+     "rarity": "Legendary",
+     "image": "img/rides/taillix-blood-sucker-ravenfeather.webp"
+    },
+    {
+     "collection": "Eldritch Horror",
+     "source": "Mo.Gold Gacha",
+     "model": "Dreadtide Taillix",
+     "name": "Scarlet Abyss",
+     "rarity": "Epic",
+     "image": "img/rides/taillix-eldritch-horror-scarlet-abyss.webp"
+    },
+    {
+     "collection": "Fox Fashion",
+     "source": "Token Gacha\nManny's Remix",
+     "model": null,
+     "name": "Ambercoat",
+     "rarity": "Basic",
+     "image": "img/rides/taillix-fox-fashion-ambercoat.webp"
+    },
+    {
+     "collection": "Fox Fashion",
+     "source": "Token Gacha\nManny's Remix",
+     "model": null,
+     "name": "Ashfall",
+     "rarity": "Basic",
+     "image": "img/rides/taillix-fox-fashion-ashfall.webp"
+    },
+    {
+     "collection": "Fox Fashion",
+     "source": "Shop Offer",
+     "model": null,
+     "name": "Frostbite",
+     "rarity": "Basic",
+     "image": "img/rides/taillix-fox-fashion-frostbite.webp"
+    },
+    {
+     "collection": "Fox Fashion",
+     "source": "Shop Offer",
+     "model": null,
+     "name": "Pricklepaw",
+     "rarity": "Epic",
+     "image": "img/rides/taillix-fox-fashion-pricklepaw.webp"
+    },
+    {
+     "collection": "Street Droid",
+     "source": "Mo.Gold Gacha",
+     "model": "H3X Taillix",
+     "name": "Rubybyte",
+     "rarity": "Epic",
+     "image": "img/rides/taillix-street-droid-rubybyte.webp"
+    },
+    {
+     "collection": "Street Droid",
+     "source": "Shop Offer (Mo.Gold)",
+     "model": "H3X Taillix",
+     "name": "Solarbyte",
+     "rarity": "Epic",
+     "image": "img/rides/taillix-street-droid-solarbyte.webp"
+    }
+   ]
+  },
+  {
+   "name": "Tauron",
+   "variants": [
+    {
+     "collection": "Blood Sucker",
+     "source": "S3 Final Stretch Sprint",
+     "model": "Night Tauron",
+     "name": "Cruel Omen",
+     "rarity": "Epic",
+     "image": "img/rides/tauron-blood-sucker-cruel-omen.webp"
+    },
+    {
+     "collection": "Mecha Mythical",
+     "source": "Mo.Gold Gacha",
+     "model": "Armored Tauron",
+     "name": "Rose Quartz",
+     "rarity": "Legendary",
+     "image": "img/rides/tauron-mecha-mythical-rose-quartz.webp"
+    },
+    {
+     "collection": "Mecha Mythical",
+     "source": "Mo.Gold Gacha",
+     "model": "Armored Tauron",
+     "name": "Moonlit Shadow",
+     "rarity": "Legendary",
+     "image": "img/rides/tauron-mecha-mythical-moonlit-shadow.webp"
+    }
+   ]
+  },
+  {
+   "name": "Tuff",
+   "variants": [
+    {
+     "collection": "Hornbow",
+     "source": "MoGold Gacha Completion",
+     "model": "Beast Clan Tuff",
+     "name": "Phantom Bloom",
+     "rarity": "Legendary",
+     "image": "img/rides/tuff-hornbow-phantom-bloom.webp"
+    },
+    {
+     "collection": "Hornbow",
+     "source": "Shop Offer ($)",
+     "model": "Beast Clan Tuff",
+     "name": "Terror Teal",
+     "rarity": "Legendary",
+     "image": "img/rides/tuff-hornbow-terror-teal.webp"
+    }
+   ]
+  },
+  {
+   "name": "Wisp",
+   "variants": [
+    {
+     "collection": "Prismatic Bugs",
+     "source": "Mo.Gold Gacha",
+     "model": "Shimmering Wisp",
+     "name": "Radiant Wisp",
+     "rarity": "Legendary",
+     "image": "img/rides/wisp-prismatic-bugs-radiant-wisp.webp"
+    },
+    {
+     "collection": "Prismatic Bugs",
+     "source": "Pass",
+     "model": "Shimmering Wisp",
+     "name": "Vivid Green",
+     "rarity": "Legendary",
+     "image": "img/rides/wisp-prismatic-bugs-vivid-green.webp"
+    }
+   ]
+  }
+ ]
+}

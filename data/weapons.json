@@ -1,0 +1,256 @@
+{
+ "items": [
+  {
+   "weapon": "Blood Sucker",
+   "collection": null,
+   "name": "Coffin-Bound Blood Sucker",
+   "variant": null,
+   "source": "Blood Sucker Premium Sprint",
+   "rarity": "Epic",
+   "image": "img/weapons/blood-sucker-coffin-bound-blood-sucker.webp"
+  },
+  {
+   "weapon": "Fancy Wrench",
+   "collection": null,
+   "name": "Turbocharged Fancy Wrench",
+   "variant": null,
+   "source": "Fancy Wrench Premium Sprint",
+   "rarity": "Epic",
+   "image": "img/weapons/fancy-wrench-turbocharged-fancy-wrench.webp"
+  },
+  {
+   "weapon": "Head Banger",
+   "collection": "Head Banger",
+   "name": "Screaming Head Banger",
+   "variant": "Blasted Ear Drum",
+   "source": "Shop Offer",
+   "rarity": "Epic",
+   "image": "img/weapons/head-banger-screaming-head-banger-blasted-ear-drum.webp"
+  },
+  {
+   "weapon": "Head Banger",
+   "collection": "Head Banger",
+   "name": "Screaming Head Banger",
+   "variant": "Thunder Strike",
+   "source": "Mo.Gold Gacha",
+   "rarity": "Epic",
+   "image": "img/weapons/head-banger-screaming-head-banger-thunder-strike.webp"
+  },
+  {
+   "weapon": "Hornbow",
+   "collection": null,
+   "name": "Beast Clan Hornbow",
+   "variant": "Terror Teal",
+   "source": "Hornbow Premium Sprint",
+   "rarity": "Epic",
+   "image": "img/weapons/hornbow-beast-clan-hornbow-terror-teal.webp"
+  },
+  {
+   "weapon": "Lava Shield",
+   "collection": "Lava Shield",
+   "name": "Bedrock Lava Shield",
+   "variant": null,
+   "source": "Lava Shield Premium Sprint",
+   "rarity": "Epic",
+   "image": "img/weapons/lava-shield-bedrock-lava-shield.webp"
+  },
+  {
+   "weapon": "Lava Shield",
+   "collection": "Terry",
+   "name": "Steel Bolt Lava Shield",
+   "variant": "Plasma",
+   "source": "Shop Offer ($)",
+   "rarity": "Epic",
+   "image": "img/weapons/lava-shield-steel-bolt-lava-shield-plasma.webp"
+  },
+  {
+   "weapon": "Medicine Ball",
+   "collection": "Medicine Ball",
+   "name": "Mega Dose Medicine Ball",
+   "variant": "Night Team",
+   "source": "Medicine Ball Premium Sprint",
+   "rarity": "Epic",
+   "image": "img/weapons/medicine-ball-mega-dose-medicine-ball-night-team.webp"
+  },
+  {
+   "weapon": "Pyro",
+   "collection": "Pyro",
+   "name": "Shadowcloak Pyro",
+   "variant": null,
+   "source": "Pyro Premium Sprint",
+   "rarity": "Epic",
+   "image": "img/weapons/pyro-shadowcloak-pyro.webp"
+  },
+  {
+   "weapon": "Singularity",
+   "collection": "Techno Fists",
+   "name": "Axial Singularity",
+   "variant": null,
+   "source": "Singularity Premium Sprint",
+   "rarity": "Epic",
+   "image": "img/weapons/singularity-axial-singularity.webp"
+  },
+  {
+   "weapon": "Speedshot",
+   "collection": "MIN",
+   "name": "Equilibrium Speedshot",
+   "variant": "Liminal",
+   "source": "Shop Offer ($)",
+   "rarity": "Basic",
+   "image": "img/weapons/speedshot-equilibrium-speedshot-liminal.webp"
+  },
+  {
+   "weapon": "Speedshot",
+   "collection": "MIN",
+   "name": "Equilibrium Speedshot",
+   "variant": "Magnetism",
+   "source": "Shop Offer ($)",
+   "rarity": "Basic",
+   "image": "img/weapons/speedshot-equilibrium-speedshot-magnetism.webp"
+  },
+  {
+   "weapon": "Speedshot",
+   "collection": "MIN",
+   "name": "Equilibrium Speedshot",
+   "variant": "Wavelength",
+   "source": "Shop Offer ($)",
+   "rarity": "Basic",
+   "image": "img/weapons/speedshot-equilibrium-speedshot-wavelength.webp"
+  },
+  {
+   "weapon": "Speedshot",
+   "collection": "MIN",
+   "name": "Fang Beat Speedshot",
+   "variant": "New Denim",
+   "source": "Shop Offer ($)",
+   "rarity": "Epic",
+   "image": "img/weapons/speedshot-fang-beat-speedshot-new-denim.webp"
+  },
+  {
+   "weapon": "Storm Weaver",
+   "collection": "Storm Weaver",
+   "name": "Cloud Palace Storm Weaver",
+   "variant": "Sapphire",
+   "source": "Storm Weaver Premium Sprint",
+   "rarity": "Epic",
+   "image": "img/weapons/storm-weaver-cloud-palace-storm-weaver-sapphire.webp"
+  },
+  {
+   "weapon": "Squid Blades",
+   "collection": "MIN",
+   "name": "Eternal Fire Squid Blades",
+   "variant": "New Denim",
+   "source": "Shop Offer ($)",
+   "rarity": "Epic",
+   "image": "img/weapons/squid-blades-eternal-fire-squid-blades-new-denim.webp"
+  },
+  {
+   "weapon": "Squid Blades",
+   "collection": "Squid Blades",
+   "name": "Extra Squiddy Squid Blades",
+   "variant": null,
+   "source": "Squid Blades Premium Sprint",
+   "rarity": "Epic",
+   "image": "img/weapons/squid-blades-extra-squiddy-squid-blades.webp"
+  },
+  {
+   "weapon": "Techno Fists",
+   "collection": "Techno Fists",
+   "name": "Neo Core Techno Fists",
+   "variant": "Wicked",
+   "source": "Techno Fists Premium Sprint",
+   "rarity": "Epic",
+   "image": "img/weapons/techno-fists-neo-core-techno-fists-wicked.webp"
+  },
+  {
+   "weapon": "Techno Fists",
+   "collection": "Yrsa",
+   "name": "Yrsa's Techno Fists",
+   "variant": "Polar Night",
+   "source": "Pass",
+   "rarity": "Epic",
+   "image": "img/weapons/techno-fists-yrsa-s-techno-fists-polar-night.webp"
+  },
+  {
+   "weapon": "Techno Fists",
+   "collection": "Yrsa",
+   "name": "Yrsa's Techno Fists",
+   "variant": "Midnight Sun",
+   "source": "Pass",
+   "rarity": "Epic",
+   "image": "img/weapons/techno-fists-yrsa-s-techno-fists-midnight-sun.webp"
+  },
+  {
+   "weapon": "Venom Bow",
+   "collection": "Mecha Mythical",
+   "name": "Armored Venom Bow",
+   "variant": "Cerulean",
+   "source": "Shop Offer ($$)",
+   "rarity": "Epic",
+   "image": "img/weapons/venom-bow-armored-venom-bow-cerulean.webp"
+  },
+  {
+   "weapon": "Venom Bow",
+   "collection": "MIN",
+   "name": "Deadly Pop Venom Bow",
+   "variant": "New Denim",
+   "source": "Shop Offer ($$)",
+   "rarity": "Epic",
+   "image": "img/weapons/venom-bow-deadly-pop-venom-bow-new-denim.webp"
+  },
+  {
+   "weapon": "Venom Bow",
+   "collection": "Venom Bow",
+   "name": "Scorpionic Venom Bow",
+   "variant": null,
+   "source": "Shop Offer ($$)",
+   "rarity": "Epic",
+   "image": "img/weapons/venom-bow-scorpionic-venom-bow.webp"
+  },
+  {
+   "weapon": "Vibe Shifter",
+   "collection": "Vibe Shifter",
+   "name": "Danger Kiss Vibe Shifter",
+   "variant": "Love Hurts",
+   "source": "Vibe Shifter Premium Sprint",
+   "rarity": "Epic",
+   "image": "img/weapons/vibe-shifter-danger-kiss-vibe-shifter-love-hurts.webp"
+  },
+  {
+   "weapon": "Wolf Stick",
+   "collection": "Wolf Stick",
+   "name": "Divine Shadow Wolf Stick",
+   "variant": "Primeval Rust",
+   "source": "Wolf Stick Premium Sprint",
+   "rarity": "Epic",
+   "image": "img/weapons/wolf-stick-divine-shadow-wolf-stick-primeval-rust.webp"
+  },
+  {
+   "weapon": "Wolf Stick",
+   "collection": "Zosar",
+   "name": "Zosar's Wolf Stick",
+   "variant": "Mystic Gold",
+   "source": "Pass",
+   "rarity": "Epic",
+   "image": "img/weapons/wolf-stick-zosar-s-wolf-stick-mystic-gold.webp"
+  },
+  {
+   "weapon": "Zapsicle",
+   "collection": "Akuma",
+   "name": "Akuma's Zapsicle",
+   "variant": "Firewall",
+   "source": "Shop Offer ($)",
+   "rarity": "Epic",
+   "image": "img/weapons/zapsicle-akuma-s-zapsicle-firewall.webp"
+  },
+  {
+   "weapon": "Zapsicle",
+   "collection": "Akuma",
+   "name": "Akuma's Zapsicle",
+   "variant": "Glitchwave",
+   "source": "Pass,\nShop Offer ($)",
+   "rarity": "Epic",
+   "image": "img/weapons/zapsicle-akuma-s-zapsicle-glitchwave.webp"
+  }
+ ]
+}

@@ -1,0 +1,1319 @@
+{
+ "sections": [
+  {
+   "name": "Banners",
+   "items": [
+    {
+     "name": "Bouba Blast\nEssentials Vol.1",
+     "source": "S6 Sidewalk Syndicate Sprint",
+     "rarity": "Basic",
+     "image": "img/decorations/banners-bouba-blast.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Bug Chase POV\nEssentials Vol.1",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/decorations/banners-bug-chase-pov.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Company Pride\nCircle Back Cerulean\nEssentials Vol.1",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/decorations/banners-company-pride.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Company Pride\nMagenta Agenda\nEssentials Vol.1",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/decorations/banners-company-pride-2.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Company Pride\nPaycheck Purple\nEssentials Vol.1",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/decorations/banners-company-pride-3.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Company Pride\nScreentime Green\nEssentials Vol.1",
+     "source": "S5 Sprint: Branch Manager",
+     "rarity": "Basic",
+     "image": "img/decorations/banners-company-pride-4.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Company Pride\nTangible Tangerine\nEssentials Vol.1",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/decorations/banners-company-pride-5.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Default\nEssentials Vol.1",
+     "source": "Obtained as your first profile banner",
+     "rarity": "Basic",
+     "image": "img/decorations/banners-default.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Micro Chaos\nEssentials Vol.1",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/decorations/banners-micro-chaos.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Pineapple Chainlink\nEssentials Vol.1",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/decorations/banners-pineapple-chainlink.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Portalz\nLet's Go?\nEssentials Vol.1",
+     "source": "S5 Sprint: Fallout Fashion",
+     "rarity": "Basic",
+     "image": "img/decorations/banners-portalz.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Portalz\nWith Style\nEssentials Vol.1",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/decorations/banners-portalz-2.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Splintered Shift\nEssentials Vol.1",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/decorations/banners-splintered-shift.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Troubled City\nEssentials Vol.1",
+     "source": "S5 Sprint: Noir Night",
+     "rarity": "Basic",
+     "image": "img/decorations/banners-troubled-city.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Non Stop Sky\nNew Denim\nMIN",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/decorations/banners-non-stop-sky.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Blood Sucker Maw\nBlood Sucker",
+     "source": "Blood Sucker Sprint",
+     "rarity": "Epic",
+     "image": "img/decorations/banners-blood-sucker-maw.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Energy Panels\nFancy Wrench",
+     "source": "Fancy Wrench Sprint",
+     "rarity": "Epic",
+     "image": "img/decorations/banners-energy-panels.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Metal Studs\nHead Banger",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/decorations/banners-metal-studs.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Beast Crest\nHornybow",
+     "source": "Hornybow Sprint",
+     "rarity": "Epic",
+     "image": "img/decorations/banners-beast-crest.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Lava Flow\nLava Shield",
+     "source": "Lava Shield Sprint",
+     "rarity": "Epic",
+     "image": "img/decorations/banners-lava-flow.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Hello Chonk\nMedicine Ball",
+     "source": "Medicine Ball Sprint",
+     "rarity": "Epic",
+     "image": "img/decorations/banners-hello-chonk.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Pyrowing\nPyro",
+     "source": "Pyro Sprint",
+     "rarity": "Epic",
+     "image": "img/decorations/banners-pyrowing.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Sands of Time\nSingularity",
+     "source": "Singularity Sprint",
+     "rarity": "Epic",
+     "image": "img/decorations/banners-sands-of-time.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Heavenly Storm\nStorm Weaver",
+     "source": "Storm Weaver Sprint",
+     "rarity": "Epic",
+     "image": "img/decorations/banners-heavenly-storm.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Tentacurls\nSquid Blades",
+     "source": "Squid Blades Sprint",
+     "rarity": "Epic",
+     "image": "img/decorations/banners-tentacurls.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Neo Core Power\nTechno Fists",
+     "source": "Techno Fist Sprint",
+     "rarity": "Epic",
+     "image": "img/decorations/banners-neo-core-power.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Toxic Whirlwind\nVenom Bow",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/decorations/banners-toxic-whirlwind.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Vibes Shifting...\nCruel\nVibe Shifter",
+     "source": "Vibe Shifter Mo.Gold Gacha,\nS6 Grape Royale Sprint",
+     "rarity": "Epic",
+     "image": "img/decorations/banners-vibes-shifting.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Vibes Shifting...\nGracious\nVibe Shifter",
+     "source": "Vibe Shifter Sprint",
+     "rarity": "Epic",
+     "image": "img/decorations/banners-vibes-shifting-2.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Tail Trail\nWolf Stick",
+     "source": "Wolf Stick Sprint",
+     "rarity": "Epic",
+     "image": "img/decorations/banners-tail-trail.webp",
+     "extra_images": []
+    }
+   ]
+  },
+  {
+   "name": "Badges",
+   "items": [
+    {
+     "name": "Career Level (XP Frame)",
+     "source": "Obtain XP from normal gameplay",
+     "rarity": "XP Frame",
+     "image": "img/decorations/badges-career-level-xp-frame.webp",
+     "extra_images": [
+      "img/decorations/badges-career-level-xp-frame-nivel-5.webp",
+      "img/decorations/badges-career-level-xp-frame-nivel-6.webp",
+      "img/decorations/badges-career-level-xp-frame-nivel-7.webp",
+      "img/decorations/badges-career-level-xp-frame-nivel-8.webp"
+     ]
+    },
+    {
+     "name": "Collector Level (Progressive)",
+     "source": "Obtained as your first badge.\nGet Cosmetic XP to level up",
+     "rarity": "Basic",
+     "image": "img/decorations/badges-collector-level-progressive.webp",
+     "extra_images": []
+    },
+    {
+     "name": "S1 Elite Merit (Progressive)\nLevel 1 - 11\nmo.corp",
+     "source": "Earned with Elite Merits",
+     "rarity": "Basic",
+     "image": "img/decorations/badges-s1-elite-merit-progressive.webp",
+     "extra_images": [
+      "img/decorations/badges-s1-elite-merit-progressive-nivel-5.webp",
+      "img/decorations/badges-s1-elite-merit-progressive-nivel-6.webp",
+      "img/decorations/badges-s1-elite-merit-progressive-nivel-7.webp",
+      "img/decorations/badges-s1-elite-merit-progressive-nivel-8.webp",
+      "img/decorations/badges-s1-elite-merit-progressive-nivel-9.webp",
+      "img/decorations/badges-s1-elite-merit-progressive-nivel-10.webp",
+      "img/decorations/badges-s1-elite-merit-progressive-nivel-11.webp",
+      "img/decorations/badges-s1-elite-merit-progressive-nivel-12.webp",
+      "img/decorations/badges-s1-elite-merit-progressive-nivel-13.webp",
+      "img/decorations/badges-s1-elite-merit-progressive-nivel-14.webp"
+     ]
+    },
+    {
+     "name": "S1 Elite Merit (Progressive)\nMax level\nmo.corp",
+     "source": "Earned with Elite Merits",
+     "rarity": "Epic",
+     "image": "img/decorations/badges-s1-elite-merit-progressive-2.webp",
+     "extra_images": []
+    },
+    {
+     "name": "S2 Elite Merit (Progressive)\nLevel 1 - 11\nmo.corp",
+     "source": "Earned with Elite Merits",
+     "rarity": "Basic",
+     "image": "img/decorations/badges-s2-elite-merit-progressive.webp",
+     "extra_images": [
+      "img/decorations/badges-s2-elite-merit-progressive-nivel-5.webp",
+      "img/decorations/badges-s2-elite-merit-progressive-nivel-6.webp",
+      "img/decorations/badges-s2-elite-merit-progressive-nivel-7.webp",
+      "img/decorations/badges-s2-elite-merit-progressive-nivel-8.webp",
+      "img/decorations/badges-s2-elite-merit-progressive-nivel-9.webp",
+      "img/decorations/badges-s2-elite-merit-progressive-nivel-10.webp",
+      "img/decorations/badges-s2-elite-merit-progressive-nivel-11.webp",
+      "img/decorations/badges-s2-elite-merit-progressive-nivel-12.webp",
+      "img/decorations/badges-s2-elite-merit-progressive-nivel-13.webp",
+      "img/decorations/badges-s2-elite-merit-progressive-nivel-14.webp"
+     ]
+    },
+    {
+     "name": "S2 Elite Merit (Progressive)\nMax level\nmo.corp",
+     "source": "Earned with Elite Merits",
+     "rarity": "Epic",
+     "image": "img/decorations/badges-s2-elite-merit-progressive-2.webp",
+     "extra_images": []
+    },
+    {
+     "name": "S3 Elite Merit (Progressive)\nLevel 1 - 11\nmo.corp",
+     "source": "Earned with Elite Merits",
+     "rarity": "Basic",
+     "image": "img/decorations/badges-s3-elite-merit-progressive.webp",
+     "extra_images": [
+      "img/decorations/badges-s3-elite-merit-progressive-nivel-5.webp",
+      "img/decorations/badges-s3-elite-merit-progressive-nivel-6.webp",
+      "img/decorations/badges-s3-elite-merit-progressive-nivel-7.webp",
+      "img/decorations/badges-s3-elite-merit-progressive-nivel-8.webp",
+      "img/decorations/badges-s3-elite-merit-progressive-nivel-9.webp",
+      "img/decorations/badges-s3-elite-merit-progressive-nivel-10.webp",
+      "img/decorations/badges-s3-elite-merit-progressive-nivel-11.webp",
+      "img/decorations/badges-s3-elite-merit-progressive-nivel-12.webp",
+      "img/decorations/badges-s3-elite-merit-progressive-nivel-13.webp",
+      "img/decorations/badges-s3-elite-merit-progressive-nivel-14.webp"
+     ]
+    },
+    {
+     "name": "S3 Elite Merit (Progressive)\nMax level\nmo.corp",
+     "source": "Earned with Elite Merits",
+     "rarity": "Epic",
+     "image": "img/decorations/badges-s3-elite-merit-progressive-2.webp",
+     "extra_images": []
+    },
+    {
+     "name": "S4 Elite Merit (Progressive)\nLevel 1 - 11\nmo.corp",
+     "source": "Earned with Elite Merits",
+     "rarity": "Basic",
+     "image": "img/decorations/badges-s4-elite-merit-progressive.webp",
+     "extra_images": [
+      "img/decorations/badges-s4-elite-merit-progressive-nivel-5.webp",
+      "img/decorations/badges-s4-elite-merit-progressive-nivel-6.webp",
+      "img/decorations/badges-s4-elite-merit-progressive-nivel-7.webp",
+      "img/decorations/badges-s4-elite-merit-progressive-nivel-8.webp",
+      "img/decorations/badges-s4-elite-merit-progressive-nivel-9.webp",
+      "img/decorations/badges-s4-elite-merit-progressive-nivel-10.webp",
+      "img/decorations/badges-s4-elite-merit-progressive-nivel-11.webp",
+      "img/decorations/badges-s4-elite-merit-progressive-nivel-12.webp",
+      "img/decorations/badges-s4-elite-merit-progressive-nivel-13.webp",
+      "img/decorations/badges-s4-elite-merit-progressive-nivel-14.webp"
+     ]
+    },
+    {
+     "name": "S4 Elite Merit (Progressive)\nMax level\nmo.corp",
+     "source": "Earned with Elite Merits",
+     "rarity": "Epic",
+     "image": "img/decorations/badges-s4-elite-merit-progressive-2.webp",
+     "extra_images": []
+    },
+    {
+     "name": "S5 Elite Merit (Progressive)\nLevel 1 - 12\nnote: from s5 onwards, lvl 12 is basic not epic\nmo.corp",
+     "source": "Earned with Elite Merits",
+     "rarity": "Basic",
+     "image": "img/decorations/badges-s5-elite-merit-progressive.webp",
+     "extra_images": [
+      "img/decorations/badges-s5-elite-merit-progressive-nivel-5.webp",
+      "img/decorations/badges-s5-elite-merit-progressive-nivel-6.webp",
+      "img/decorations/badges-s5-elite-merit-progressive-nivel-7.webp",
+      "img/decorations/badges-s5-elite-merit-progressive-nivel-8.webp",
+      "img/decorations/badges-s5-elite-merit-progressive-nivel-9.webp",
+      "img/decorations/badges-s5-elite-merit-progressive-nivel-10.webp",
+      "img/decorations/badges-s5-elite-merit-progressive-nivel-11.webp",
+      "img/decorations/badges-s5-elite-merit-progressive-nivel-12.webp",
+      "img/decorations/badges-s5-elite-merit-progressive-nivel-13.webp",
+      "img/decorations/badges-s5-elite-merit-progressive-nivel-14.webp",
+      "img/decorations/badges-s5-elite-merit-progressive-nivel-15.webp"
+     ]
+    },
+    {
+     "name": "S6 Elite Merit (Progressive)\nLevel 1 - 12\nmo.corp",
+     "source": "Earned with Elite Merits",
+     "rarity": "Basic",
+     "image": "img/decorations/badges-s6-elite-merit-progressive.webp",
+     "extra_images": [
+      "img/decorations/badges-s6-elite-merit-progressive-nivel-5.webp",
+      "img/decorations/badges-s6-elite-merit-progressive-nivel-6.webp",
+      "img/decorations/badges-s6-elite-merit-progressive-nivel-7.webp",
+      "img/decorations/badges-s6-elite-merit-progressive-nivel-8.webp",
+      "img/decorations/badges-s6-elite-merit-progressive-nivel-9.webp",
+      "img/decorations/badges-s6-elite-merit-progressive-nivel-10.webp",
+      "img/decorations/badges-s6-elite-merit-progressive-nivel-11.webp",
+      "img/decorations/badges-s6-elite-merit-progressive-nivel-12.webp",
+      "img/decorations/badges-s6-elite-merit-progressive-nivel-13.webp",
+      "img/decorations/badges-s6-elite-merit-progressive-nivel-14.webp",
+      "img/decorations/badges-s6-elite-merit-progressive-nivel-15.webp"
+     ]
+    },
+    {
+     "name": "Blood Taken\nBlood Sucker",
+     "source": "Blood Sucker Sprint",
+     "rarity": "Basic",
+     "image": "img/decorations/badges-blood-taken.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Metalhead\nHead Banger",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/decorations/badges-metalhead.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Team Wrench\nFancy Wrench",
+     "source": "Fancy Wrench Sprint",
+     "rarity": "Basic",
+     "image": "img/decorations/badges-team-wrench.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Horned Hijinks\nHornybow",
+     "source": "Hornybow Sprint",
+     "rarity": "Basic",
+     "image": "img/decorations/badges-horned-hijinks.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Lava Lover\nLava Shield",
+     "source": "Lava Shield Sprint",
+     "rarity": "Basic",
+     "image": "img/decorations/badges-lava-lover.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Medicine Baller\nMedicine Ball",
+     "source": "Medicine Ball Sprint",
+     "rarity": "Basic",
+     "image": "img/decorations/badges-medicine-baller.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Min's Dokkaebi\nMIN",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/decorations/badges-min-s-dokkaebi.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Chaos Energy\nmo.co fresh",
+     "source": "R&D: Big-T Terry Pass",
+     "rarity": "Basic",
+     "image": "img/decorations/badges-chaos-energy.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Donut Time\nmoco fresh",
+     "source": "S5 Sprint: Noir Night\nSept 10th 2026 - October 8th 2026",
+     "rarity": "Basic",
+     "image": "img/decorations/badges-donut-time.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Grateful Spirit\nmo.co fresh",
+     "source": "Aerobic Apocalypse: Mo.Gold Gacha\n(28% drop chance, 25 mo.gold)\nAugust 20th 2026 - September 9th 2026",
+     "rarity": "Basic",
+     "image": "img/decorations/badges-grateful-spirit.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Kaboom\nmoco fresh",
+     "source": "S5 Sprint: Fallout Fashion\nSept 10th 2026 - October 8th 2026",
+     "rarity": "Basic",
+     "image": "img/decorations/badges-kaboom.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Lovely Flame\nmoco fresh",
+     "source": "S5 Sprint: Branch Manager\nSept 10th 2026 - October 8th 2026",
+     "rarity": "Basic",
+     "image": "img/decorations/badges-lovely-flame.webp",
+     "extra_images": []
+    },
+    {
+     "name": "mo.gold\nmoco fresh",
+     "source": "S6 Glam Love Sprint\nOctober 8th 2026 - Nov 5 2026",
+     "rarity": "Basic",
+     "image": "img/decorations/badges-mo-gold.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Silly Drog\nmo.co fresh",
+     "source": "R&D: Akuma",
+     "rarity": "Basic",
+     "image": "img/decorations/badges-silly-drog.webp",
+     "extra_images": []
+    },
+    {
+     "name": "S1 Overtime\nmo.corp",
+     "source": "Reach Level 76 in S1 Final Stretch",
+     "rarity": "Epic",
+     "image": "img/decorations/badges-s1-overtime.webp",
+     "extra_images": []
+    },
+    {
+     "name": "S2 Overtime\nmo.corp",
+     "source": "Reach level 81 in S2 Final Stretch",
+     "rarity": "Epic",
+     "image": "img/decorations/badges-s2-overtime.webp",
+     "extra_images": []
+    },
+    {
+     "name": "S3 Overtime\nmo.corp",
+     "source": "Reach level 81 in S3 Final Stretch",
+     "rarity": "Epic",
+     "image": "img/decorations/badges-s3-overtime.webp",
+     "extra_images": []
+    },
+    {
+     "name": "S4 Overtime\nmo.corp",
+     "source": "Reach level 81 in S4 Final Stretch",
+     "rarity": "Epic",
+     "image": "img/decorations/badges-s4-overtime.webp",
+     "extra_images": []
+    },
+    {
+     "name": "S5 Overtime\nmo.corp",
+     "source": "Complete 17 levels in S5 Final Stretch",
+     "rarity": "Epic",
+     "image": "img/decorations/badges-s5-overtime.webp",
+     "extra_images": []
+    },
+    {
+     "name": "S6 Overtime\nmo.corp",
+     "source": "Reach level 63 in S6 Final Stretch",
+     "rarity": "Epic",
+     "image": "img/decorations/badges-s6-overtime.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Weapon Mastery (Progressive)\nmo.corp",
+     "source": "Finish dojo of the respective weapon",
+     "rarity": "Epic",
+     "image": "img/decorations/badges-weapon-mastery-progressive.webp",
+     "extra_images": [
+      "img/decorations/badges-weapon-mastery-progressive-nivel-5.webp",
+      "img/decorations/badges-weapon-mastery-progressive-nivel-6.webp",
+      "img/decorations/badges-weapon-mastery-progressive-nivel-7.webp"
+     ]
+    },
+    {
+     "name": "Friend to Pyro\nPyro",
+     "source": "Pyro Sprint",
+     "rarity": "Basic",
+     "image": "img/decorations/badges-friend-to-pyro.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Time Keeper\nSingularity",
+     "source": "Singularity Sprint",
+     "rarity": "Basic",
+     "image": "img/decorations/badges-time-keeper.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Extra Squiddy\nSquid Blades",
+     "source": "Squid Blades Sprint",
+     "rarity": "Basic",
+     "image": "img/decorations/badges-extra-squiddy.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Storm Woven\nStorm Weaver",
+     "source": "Storm Weaver Sprint",
+     "rarity": "Basic",
+     "image": "img/decorations/badges-storm-woven.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Techno Blaster\nTechno Fists",
+     "source": "Techno Fist Sprint",
+     "rarity": "Basic",
+     "image": "img/decorations/badges-techno-blaster.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Wolf Wanderer\nWolf Stick",
+     "source": "Wolf Stick Sprint",
+     "rarity": "Basic",
+     "image": "img/decorations/badges-wolf-wanderer.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Venomous\nVenom Bow",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/decorations/badges-venomous.webp",
+     "extra_images": []
+    },
+    {
+     "name": "Vibe Improver\nVibe Shifter",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/decorations/badges-vibe-improver.webp",
+     "extra_images": []
+    }
+   ]
+  },
+  {
+   "name": "Metrics",
+   "items": [
+    {
+     "name": "Bosses Hunted",
+     "source": "Reach Level 10 and claim from Shop",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Bosses Hunted <Weapon>",
+     "source": "Mastery",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Daily Goals Completed",
+     "source": "Reach Level 5 and claim from Shop",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Damage Absorbed Lava Shield",
+     "source": "Lava Shield Mastery",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Damage Dealt <Weapon>",
+     "source": "Mastery",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Hunter Since",
+     "source": "Shop Offer",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Jobs Completed",
+     "source": "Reach Level 10 and claim from Shop",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Max Serious Hunter Streak",
+     "source": "Reach Level 5 and claim from Shop",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Megacharged Monsters <Weapon>",
+     "source": "Mastery",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Monsters Hunted",
+     "source": "Shop Offer",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Monsters Hunted <Weapon>",
+     "source": "Mastery",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Overcharged Monsters <Weapon>",
+     "source": "Mastery",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Rifts Completed",
+     "source": "Reach Level 10 and claim from Shop",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Total Healing <Weapon>",
+     "source": "Mastery",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Weapons Collected",
+     "source": "Shop Offer",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    }
+   ]
+  },
+  {
+   "name": "Titles",
+   "items": [
+    {
+     "name": "Alpha Charger",
+     "source": "Elite Hunter Program CH1, Page 3\n100 Elite Tokens + 350 Elite Tokens\nto unlock Page 3",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Associate Hunter",
+     "source": "Reaching Level 20",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Button Masher",
+     "source": "Slugfest PvP Event\nApril 4th 2025 - April 8th 2025",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Cool Zoner",
+     "source": "Community Event 1\nNovember 9th 2025 - November 12th 2025",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Damage Consultant",
+     "source": "Reaching Level 25",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Death Baller",
+     "source": "Rift Event Best of CH1\nJune 13th 2025 - June 16th 2025",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Discord Bot",
+     "source": "R&D: Big T Terry\nJuly 30th 2026 - Augest 5th 2026",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Drama Queen",
+     "source": "S6 Glam Love Sprint\nOct 8 2026 - Nov 5 2026",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Exclusive",
+     "source": "Shotbow Mayhem Rift Event\nMay 16th 2025 - March 18th 2025",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Git Gud",
+     "source": "Single Strike PvP Event\nMarch 21st 2025 - March 25th 2025",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Hunter VP",
+     "source": "Reaching Level 30",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Hunting Intern",
+     "source": "Reaching Level 10",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Junior Thwacker",
+     "source": "Reaching Level 15",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Live, Love, Hunt",
+     "source": "On a Role Elite Event\nMay 7th 2025 - May 9th 2025",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Mama Jumper",
+     "source": "Elite Hunter Program CH1, Page 1\n50 Elite Tokens",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "meow",
+     "source": "Community Event: Sniffers vs. Tacticats",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Merch Maniac",
+     "source": "Ferocious Flora Gacha Drop\n(11.1% drop chance, 15 mo.gold)\nJanuary 12th - February 16th 2026",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Mo.bot",
+     "source": "Rift Event Wave Mania\nJune 27th 2025 - June 30th 2025",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "NPC",
+     "source": "Boombox PvP Event\nApril 16th 2025 - April 18th 2025",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Plump Spirit",
+     "source": "Stun Lock Elite Event\nApril 30th 2025 - May 1st 2025",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Poisonous",
+     "source": "S5 Sprint: Fallout Fashion\nSept 10th 2026 - October 8th 2026",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Princess Ladybug",
+     "source": "Elite Hunter Program CH1, Page 4\n100 Elite Tokens + 550 Elite Tokens\nto unlock Page 4",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Professor Vibes",
+     "source": "Shotbow Mayhem Rift Event\nApril 11th 2025 - April 15th 2025",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Rebel",
+     "source": "S6 Sidewalk Syndicate Sprint\nOct 8 2026 - Nov 5 2026",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Reddit Army",
+     "source": "On a Role Elite Event\nApril 23rd 2025 - April 26th 2025",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Royal Rider",
+     "source": "Elite Hunter Program CH1, Page 6\n100 Elite Tokens + 1850 Elite Tokens\nto unlock Page 6",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Sacred",
+     "source": "S6 Grape Royale Sprint\nOct 8 2026 - Nov 5 2026",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Savage Spirit",
+     "source": "Elite Hunter Program CH1, Page 2\n100 Elite Tokens + 200 Elite Tokens\nto unlock Page 2",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Sherlock",
+     "source": "S5 Sprint: Noir Night\nSept 10th 2026 - October 8th 2026",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Shrine Dancer",
+     "source": "Rift Event Mixed Bag\nSeptember 5th 2025 - September 8th 2025",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Stylish",
+     "source": "Basic Starter Collection: Token Gacha\n(53.1% drop chance, 75 tokens)\nMay 21st 2026 - June 4th 2026",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Touching Grass",
+     "source": "Rift Event On a Role\nJuly 18th 2025 - June 21st 2025",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Toxic Spitter",
+     "source": "Elite Hunter Program CH1, Page 5\n100 Elite Tokens + 1050 Elite Tokens\nto unlock Page 5",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Villager",
+     "source": "Rift Event Stun Lock\nAugust 1st 2025 - August 4th 2025",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "What's Grass?",
+     "source": "S5 Sprint: Branch Manager\nSept 10th 2026 - October 8th 2026",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "XP Addict",
+     "source": "1st Anniversary Occasion\nMarch 18th 2026 - March 24th 2026",
+     "rarity": "Basic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "OG Crew",
+     "source": "Reach Level 6 during game release\nMarch 18th 2025 - March 25th 2025",
+     "rarity": "Rare",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Neo Hunter",
+     "source": "Claimable from the Shop during\nNeo mo.co update\nMay 21st 2026 - June 4th 2026",
+     "rarity": "Rare",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Super mo.creator",
+     "source": "CH1 Quest: Get 10 people to scan your code.\nRequires super creator status.",
+     "rarity": "Rare",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Anti-Death Ball",
+     "source": "Medicine Ball Sprint",
+     "rarity": "Epic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Awooooo",
+     "source": "Wolf Stick Sprint",
+     "rarity": "Epic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Firestarter",
+     "source": "Pyro Sprint",
+     "rarity": "Epic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Fist Bump",
+     "source": "Techno Fists Sprint",
+     "rarity": "Epic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Invisible",
+     "source": "Squid Blades Sprint",
+     "rarity": "Epic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "K-POP FAN",
+     "source": "R&D: K-POP MIN Pass\nJuly 2nd 2026 - July 9th 2026",
+     "rarity": "Epic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Overcharged",
+     "source": "Get 125+ cumulutive elite levels\nbetween CH1 and CH2\nMarch 18th 2025 - June 3th 2026",
+     "rarity": "Epic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Painkiller",
+     "source": "Vibe Shifter Sprint",
+     "rarity": "Epic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Party Monster",
+     "source": "Pyropups Paid Shard Pass\nLevel 100 Reward\nMay 13th 2025 - May 26th 2025\nAerobics Apocalypse: Mo.Gold Gacha\n(13.6% drop chance, 25 mo.gold)\nAugust 20th 2026 - September 9th 2026",
+     "rarity": "Epic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Rain Man",
+     "source": "Storm Weaver Sprint",
+     "rarity": "Epic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Reality Breaker",
+     "source": "Singularity Sprint",
+     "rarity": "Epic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Serpentine",
+     "source": "Hornybow Sprint",
+     "rarity": "Epic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Thrash Queen",
+     "source": "Head Banger: Metal Lord Gacha Drop\n(12.7% drop chance, 30 mo.gold)\nAvaliable for new hunters for 14 days",
+     "rarity": "Epic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Tinkerer",
+     "source": "Fancy Wrench Sprint",
+     "rarity": "Epic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Too Hot",
+     "source": "Lava Shield Sprint",
+     "rarity": "Epic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Toxic",
+     "source": "Venom Bow Gacha: Faded Beauty",
+     "rarity": "Epic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Vampiric",
+     "source": "Blood Sucker Sprint",
+     "rarity": "Epic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Prime Hunter",
+     "source": "R&D: AKUMA\nAugust 27th 2026 - September 3rd 2026",
+     "rarity": "Epic",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "CH1 Large Team Ace",
+     "source": "PvP 10v10 Black Belt\nJune 11th 2025 - June 16th 2025",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "CH1 Team of 4 Ace",
+     "source": "PvP 4v4 Black Belt\nJune 11th 2025 - June 16th 2025",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "CH1 Duo Ace",
+     "source": "PvP 10 Teams Duo Black Belt\nJune 11th 2025 - June 16th 2025",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "CH1 Elite Hunter",
+     "source": "Reach Elite Hunter Level 100 during CH1\n+ 1850 Elite Tokens to unlock Page 6",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "CH1 Solo Ace",
+     "source": "PvP 20 players Solo Black Belt\nJune 11th 2025 - June 16th 2025",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "CH2 Large Team Ace",
+     "source": "PvP 10v10 Black Belt\nJune 17th 2025 - May 20th 2026",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "CH2 Team of 4 Ace",
+     "source": "PvP 4v4 Black Belt\nJune 17th 2025 - May 20th 2026",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "CH2 Duo Ace",
+     "source": "PvP 10 Teams Duo Black Belt\nJune 17th 2025 - May 20th 2026",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "CH2 Elite Hunter",
+     "source": "Reach Elite Hunter Level 100 during CH2\n+ 7500 Elite Tokens to unlock Page 12",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "CH2 Solo Ace",
+     "source": "PvP 20 players Solo Black Belt\nJune 17th 2025 - May 20th 2026",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Fancy Wrench Expert",
+     "source": "Fancy Wrench Mastery",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Headbanger Expert",
+     "source": "Headbanger Mastery",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Hornybow Expert",
+     "source": "Hornybow Mastery",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Lava Shield Expert",
+     "source": "Lava Shield Mastery",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Medicine Ball Expert",
+     "source": "Medicine Ball Mastery",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Megacharged",
+     "source": "Get 150+ cumulative elite levels\nbetween CH1 and CH2\nMarch 18th 2025 - June 3th 2026",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "mo.creator",
+     "source": "CH1 Quest: Get 10 people to scan your code.\nRequire official or super creator status.",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Pyro Expert",
+     "source": "Pyro Mastery",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Singularity Expert",
+     "source": "Singularity Mastery",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Speedshot Expert",
+     "source": "Speedshot Mastery",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Storm Weaver Expert",
+     "source": "Storm Weaver Mastery",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Techno Fists Expert",
+     "source": "Techno Fists Mastery",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Venom Bow Expert",
+     "source": "Venom Bow Mastery",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Vibeshifter Expert",
+     "source": "Vibeshifter Mastery",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Wolf Stick Expert",
+     "source": "Wolf Stick Mastery",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Zapsicle Expert",
+     "source": "Zapsicle Mastery",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Blood Sucker Expert",
+     "source": "Blood Sucker Mastery",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Buzz-kill Expert",
+     "source": "Unreleased content",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "High Voltage",
+     "source": "Unreleased content",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Monster Slugger Expert",
+     "source": "Unreleased content",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    },
+    {
+     "name": "Sorcerer's Portal Expert",
+     "source": "Unreleased content",
+     "rarity": "Legendary",
+     "image": null,
+     "extra_images": []
+    }
+   ]
+  }
+ ]
+}

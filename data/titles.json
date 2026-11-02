@@ -1,0 +1,503 @@
+{
+ "total_cosmetic_xp": 4595,
+ "titles": [
+  {
+   "title": "Alpha Charger",
+   "how": "Elite Hunter Program 1, Page 3,\n100 Elite Tokens + 350 Elite Tokens to unlock Page 3",
+   "cosmetic_xp": 37,
+   "rarity": "Basic"
+  },
+  {
+   "title": "Associate Hunter",
+   "how": "Reaching Level 20",
+   "cosmetic_xp": 20,
+   "rarity": "Basic"
+  },
+  {
+   "title": "Button Masher",
+   "how": "Slugfest PvP Event\nApril 4th - 8th 2025",
+   "cosmetic_xp": 37,
+   "rarity": "Basic"
+  },
+  {
+   "title": "Cool Zoner",
+   "how": "Community Event 1\nNovember 9th - 12th 2025",
+   "cosmetic_xp": 35,
+   "rarity": "Basic"
+  },
+  {
+   "title": "Damage Consultant",
+   "how": "Reaching Level 25",
+   "cosmetic_xp": 20,
+   "rarity": "Basic"
+  },
+  {
+   "title": "Death Baller",
+   "how": "Rift Event Best of CH1\nJune 13th - 16th 2025",
+   "cosmetic_xp": 35,
+   "rarity": "Basic"
+  },
+  {
+   "title": "Discord Bot",
+   "how": "R&D: Big T Terry\nJuly 30th - Aug 5th 2026",
+   "cosmetic_xp": 35,
+   "rarity": "Basic"
+  },
+  {
+   "title": "Exclusive",
+   "how": "Shotbow Mayhem Rift Event\nMay 16th - 18th 2025",
+   "cosmetic_xp": 35,
+   "rarity": "Basic"
+  },
+  {
+   "title": "Git Gud",
+   "how": "Single Strike PvP Event\nMarch 21st - 25th 2025",
+   "cosmetic_xp": 37,
+   "rarity": "Basic"
+  },
+  {
+   "title": "Hunter VP",
+   "how": "Reaching Level 30",
+   "cosmetic_xp": 20,
+   "rarity": "Basic"
+  },
+  {
+   "title": "Hunting Intern",
+   "how": "Reaching Level 10",
+   "cosmetic_xp": 20,
+   "rarity": "Basic"
+  },
+  {
+   "title": "Junior Thwacker",
+   "how": "Reaching Level 15",
+   "cosmetic_xp": 20,
+   "rarity": "Basic"
+  },
+  {
+   "title": "Live, Love, Hunt",
+   "how": "On a Role Elite Event\nMay 7th - 9th 2025",
+   "cosmetic_xp": 35,
+   "rarity": "Basic"
+  },
+  {
+   "title": "Mama Jumper",
+   "how": "Elite Hunter Program 1, Page 1, 50 Elite Tokens",
+   "cosmetic_xp": 37,
+   "rarity": "Basic"
+  },
+  {
+   "title": "meow",
+   "how": "Community Event: Save 5 Million Tacticats: Sniffers vs. Tacticats",
+   "cosmetic_xp": 20,
+   "rarity": "Basic"
+  },
+  {
+   "title": "Merch Maniac",
+   "how": "Ferocious Flora Gacha Drop (11.1% drop chance, 15 mo.gold)\nJanuary 12th - February 16th 2026",
+   "cosmetic_xp": 35,
+   "rarity": "Basic"
+  },
+  {
+   "title": "Mo.bot",
+   "how": "Rift Event Wave Mania\nJune 27th - 30th 2025",
+   "cosmetic_xp": 35,
+   "rarity": "Basic"
+  },
+  {
+   "title": "NPC",
+   "how": "Boombox PvP Event\nApril 16th - 18th 2025",
+   "cosmetic_xp": 35,
+   "rarity": "Basic"
+  },
+  {
+   "title": "Plump Spirit",
+   "how": "Stun Lock Elite Event\nApril 30th - May 1st 2025",
+   "cosmetic_xp": 35,
+   "rarity": "Basic"
+  },
+  {
+   "title": "Princess Ladybug",
+   "how": "Elite Hunter Program 1, Page 4, 100 Elite Tokens + 550 Elite Tokens to unlock Page 4",
+   "cosmetic_xp": 37,
+   "rarity": "Basic"
+  },
+  {
+   "title": "Professor Vibes",
+   "how": "Shotbow Mayhem Rift Event\nApril 11th - 15th 2025",
+   "cosmetic_xp": 37,
+   "rarity": "Basic"
+  },
+  {
+   "title": "Reddit Army",
+   "how": "On a Role Elite Event\nApril 23rd - 26th 2025",
+   "cosmetic_xp": 35,
+   "rarity": "Basic"
+  },
+  {
+   "title": "Royal Rider",
+   "how": "Elite Hunter Program 1, Page 6,\n100 Elite Tokens + 1850 Elite Tokens to unlock Page 6",
+   "cosmetic_xp": 37,
+   "rarity": "Basic"
+  },
+  {
+   "title": "Savage Spirit",
+   "how": "Elite Hunter Program 1, Page 2,\n100 Elite Tokens + 200 Elite Tokens to unlock Page 2",
+   "cosmetic_xp": 37,
+   "rarity": "Basic"
+  },
+  {
+   "title": "Shrine Dancer",
+   "how": "Rift Event Mixed Bag\nSeptember 5th - 8th 2025",
+   "cosmetic_xp": 35,
+   "rarity": "Basic"
+  },
+  {
+   "title": "Stylish",
+   "how": "Basic Starter Collection: Token Gacha (53.1% drop chance, 75 tokens)\nMay 21 2026 - June 4 2026",
+   "cosmetic_xp": 20,
+   "rarity": "Basic"
+  },
+  {
+   "title": "Touching Grass",
+   "how": "Rift Event On a Role\nJuly 18th - 21st 2025",
+   "cosmetic_xp": 35,
+   "rarity": "Basic"
+  },
+  {
+   "title": "Toxic Spitter",
+   "how": "Elite Hunter Program 1, Page 5,\n100 Elite Tokens + 1050 Elite Tokens to unlock Page 5",
+   "cosmetic_xp": 37,
+   "rarity": "Basic"
+  },
+  {
+   "title": "Villager",
+   "how": "Rift Event Stun Lock\nAugust 1st - 4th 2025",
+   "cosmetic_xp": 35,
+   "rarity": "Basic"
+  },
+  {
+   "title": "XP Addict",
+   "how": "1st Anniversary\nMarch 18th - 24th 2026",
+   "cosmetic_xp": 35,
+   "rarity": "Basic"
+  },
+  {
+   "title": "OG Crew",
+   "how": "Reaching Level 6 within the first week of the game release (March 18th - 25th 2025)",
+   "cosmetic_xp": 37,
+   "rarity": "Rare"
+  },
+  {
+   "title": "Anti-Death Ball",
+   "how": "Medicine Ball Sprint",
+   "cosmetic_xp": 35,
+   "rarity": "Epic"
+  },
+  {
+   "title": "Awooooo",
+   "how": "Wolf Stick Sprint",
+   "cosmetic_xp": 35,
+   "rarity": "Epic"
+  },
+  {
+   "title": "Firestarter",
+   "how": "Pyro Sprint",
+   "cosmetic_xp": 35,
+   "rarity": "Epic"
+  },
+  {
+   "title": "Fist Bump",
+   "how": "Techno Fists Sprint",
+   "cosmetic_xp": 35,
+   "rarity": "Epic"
+  },
+  {
+   "title": "Invisible",
+   "how": "Squid Blades Sprint",
+   "cosmetic_xp": 35,
+   "rarity": "Epic"
+  },
+  {
+   "title": "K-POP FAN",
+   "how": "R&D: K-POP MIN Pass\n7/2/2026 - 7/9",
+   "cosmetic_xp": 35,
+   "rarity": "Epic"
+  },
+  {
+   "title": "mo.creator",
+   "how": "Ch 1 Quest: Get 10 people to scan your code. Must be official or super creator.",
+   "cosmetic_xp": 35,
+   "rarity": "Epic"
+  },
+  {
+   "title": "Neo Hunter",
+   "how": "Claimable from the Shop within the first 2 weeks of NEO: 5/21 - 6/4",
+   "cosmetic_xp": 35,
+   "rarity": "Epic"
+  },
+  {
+   "title": "Overcharged",
+   "how": "Have a total of 125 or more elite levels between CH1 and CH2",
+   "cosmetic_xp": 35,
+   "rarity": "Epic"
+  },
+  {
+   "title": "Painkiller",
+   "how": "Vibe Shifter Sprint",
+   "cosmetic_xp": 35,
+   "rarity": "Epic"
+  },
+  {
+   "title": "Party Monster",
+   "how": "Pyropups Paid Shard Pass\nLevel 100 Reward, May 13th - 26th 2025\nAerobics Apocalypse: Mo.Gold Gacha (13.6% drop chance, 25 mo.gold)\nAugust 20th - September 9th 2026",
+   "cosmetic_xp": 35,
+   "rarity": "Epic"
+  },
+  {
+   "title": "Rain Man",
+   "how": "Storm Weaver Sprint",
+   "cosmetic_xp": 35,
+   "rarity": "Epic"
+  },
+  {
+   "title": "Reality Breaker",
+   "how": "Singularity Sprint",
+   "cosmetic_xp": 35,
+   "rarity": "Epic"
+  },
+  {
+   "title": "Serpentine",
+   "how": "Hornbow Sprint",
+   "cosmetic_xp": 35,
+   "rarity": "Epic"
+  },
+  {
+   "title": "Super mo.creator",
+   "how": "Ch 1 Quest: Get 10 people to scan your code. Must be super creator.",
+   "cosmetic_xp": 35,
+   "rarity": "Epic"
+  },
+  {
+   "title": "Thrash Queen",
+   "how": "Head Banger: Metal Lord Gacha Drop (12.7% drop chance, 30 mo.gold)\nMay 21 2026 - ??",
+   "cosmetic_xp": 35,
+   "rarity": "Epic"
+  },
+  {
+   "title": "Tinkerer",
+   "how": "Fancy Wrench Sprint",
+   "cosmetic_xp": 35,
+   "rarity": "Epic"
+  },
+  {
+   "title": "Too Hot",
+   "how": "Lava Shield Sprint",
+   "cosmetic_xp": 35,
+   "rarity": "Epic"
+  },
+  {
+   "title": "Toxic",
+   "how": "Venom Bow Gacha: Faded Beauty",
+   "cosmetic_xp": 35,
+   "rarity": "Epic"
+  },
+  {
+   "title": "Vampiric",
+   "how": "Blood Sucker Sprint",
+   "cosmetic_xp": 35,
+   "rarity": "Epic"
+  },
+  {
+   "title": "Prime Hunter",
+   "how": "R&D: AKUMA\nAugust 27th - September 3rd 2026",
+   "cosmetic_xp": 35,
+   "rarity": "Epic"
+  },
+  {
+   "title": "CH1 10v10 Ace",
+   "how": "PvP 10v10 Black Belt\nJune 11th - 16th 2025",
+   "cosmetic_xp": 110,
+   "rarity": "Legendary"
+  },
+  {
+   "title": "CH1 4v4 Ace",
+   "how": "PvP Quad Black Belt\nJune 11th - 16th 2025",
+   "cosmetic_xp": 110,
+   "rarity": "Legendary"
+  },
+  {
+   "title": "CH1 Duo Ace",
+   "how": "PvP Duo Black Belt\nJune 11th - 16th 2025",
+   "cosmetic_xp": 110,
+   "rarity": "Legendary"
+  },
+  {
+   "title": "CH1 Elite Hunter",
+   "how": "Reaching Elite Hunter Level 100 during CH1\n+ 1850 Elite Tokens to unlock Page 6",
+   "cosmetic_xp": 110,
+   "rarity": "Legendary"
+  },
+  {
+   "title": "CH1 Solo Ace",
+   "how": "PvP Solo Black Belt\nJune 11th - 16th 2025",
+   "cosmetic_xp": 110,
+   "rarity": "Legendary"
+  },
+  {
+   "title": "CH2 10v10 Ace",
+   "how": "PvP 10v10 Black Belt\nJune 17th 2025 - May 20 2026",
+   "cosmetic_xp": 110,
+   "rarity": "Legendary"
+  },
+  {
+   "title": "CH2 4v4 Ace",
+   "how": "PvP Quad Black Belt\nJune 17th 2025 - May 20 2026",
+   "cosmetic_xp": 110,
+   "rarity": "Legendary"
+  },
+  {
+   "title": "CH2 Duo Ace",
+   "how": "PvP Duo Black Belt\nJune 17th 2025 - May 20 2026",
+   "cosmetic_xp": 110,
+   "rarity": "Legendary"
+  },
+  {
+   "title": "CH2 Elite Hunter",
+   "how": "Reaching Elite Hunter Level 100 during CH2\n+ 7500 Elite Tokens to unlock Page 12",
+   "cosmetic_xp": 110,
+   "rarity": "Legendary"
+  },
+  {
+   "title": "CH2 Solo Ace",
+   "how": "PvP Solo Black Belt\nJune 17th 2025 - May 20 2026",
+   "cosmetic_xp": 110,
+   "rarity": "Legendary"
+  },
+  {
+   "title": "Fancy Wrench Expert",
+   "how": "Fancy Wrench Mastery",
+   "cosmetic_xp": 110,
+   "rarity": "Legendary"
+  },
+  {
+   "title": "Headbanger Expert",
+   "how": "Headbanger Mastery",
+   "cosmetic_xp": 110,
+   "rarity": "Legendary"
+  },
+  {
+   "title": "Hornbow Expert",
+   "how": "Hornbow Mastery",
+   "cosmetic_xp": 110,
+   "rarity": "Legendary"
+  },
+  {
+   "title": "Lava Shield Expert",
+   "how": "Lava Shield Mastery",
+   "cosmetic_xp": 110,
+   "rarity": "Legendary"
+  },
+  {
+   "title": "Medicine Ball Expert",
+   "how": "Medicine Ball Mastery",
+   "cosmetic_xp": 110,
+   "rarity": "Legendary"
+  },
+  {
+   "title": "Megacharged",
+   "how": "Have a total of 150 or more elite levels between CH1 and CH2",
+   "cosmetic_xp": 110,
+   "rarity": "Legendary"
+  },
+  {
+   "title": "Pyro Expert",
+   "how": "Pyro Mastery",
+   "cosmetic_xp": 110,
+   "rarity": "Legendary"
+  },
+  {
+   "title": "Singularity Expert",
+   "how": "Singularity Mastery",
+   "cosmetic_xp": 110,
+   "rarity": "Legendary"
+  },
+  {
+   "title": "Speedshot Expert",
+   "how": "Speedshot Mastery",
+   "cosmetic_xp": 110,
+   "rarity": "Legendary"
+  },
+  {
+   "title": "Storm Weaver Expert",
+   "how": "Storm Weaver Mastery",
+   "cosmetic_xp": 110,
+   "rarity": "Legendary"
+  },
+  {
+   "title": "Techno Fists Expert",
+   "how": "Techno Fists Mastery",
+   "cosmetic_xp": 110,
+   "rarity": "Legendary"
+  },
+  {
+   "title": "Venom Bow Expert",
+   "how": "Venom Bow Mastery",
+   "cosmetic_xp": 110,
+   "rarity": "Legendary"
+  },
+  {
+   "title": "Vibeshifter Expert",
+   "how": "Vibeshifter Mastery",
+   "cosmetic_xp": 110,
+   "rarity": "Legendary"
+  },
+  {
+   "title": "Wolf Stick Expert",
+   "how": "Wolf Stick Mastery",
+   "cosmetic_xp": 110,
+   "rarity": "Legendary"
+  },
+  {
+   "title": "Zapsicle Expert",
+   "how": "Zapsicle Mastery",
+   "cosmetic_xp": 110,
+   "rarity": "Legendary"
+  },
+  {
+   "title": "Blood Sucker Expert",
+   "how": "Blood Sucker Mastery",
+   "cosmetic_xp": 110,
+   "rarity": "Legendary"
+  },
+  {
+   "title": "(future titles)",
+   "how": null,
+   "cosmetic_xp": null,
+   "rarity": null
+  },
+  {
+   "title": "Buzz-kill Expert",
+   "how": null,
+   "cosmetic_xp": null,
+   "rarity": null
+  },
+  {
+   "title": "High Voltage",
+   "how": null,
+   "cosmetic_xp": null,
+   "rarity": null
+  },
+  {
+   "title": "Monster Slugger Expert",
+   "how": null,
+   "cosmetic_xp": null,
+   "rarity": null
+  },
+  {
+   "title": "Sorcerer's Portal Expert",
+   "how": null,
+   "cosmetic_xp": null,
+   "rarity": null
+  }
+ ]
+}
