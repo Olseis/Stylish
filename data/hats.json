@@ -1,0 +1,2803 @@
+{
+ "sets": [
+  {
+   "name": "Aerobic Apocalypse",
+   "note": "Mo.Gold Gacha",
+   "items": [
+    {
+     "piece": "Turbo Toner 3001",
+     "variant": "Arcade Glow",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Legendary",
+     "image": "img/hats/aerobic-apocalypse-turbo-toner-3001-arcade-glow.webp"
+    },
+    {
+     "piece": "Rex N FX",
+     "variant": "Retro Wave",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/aerobic-apocalypse-rex-n-fx-retro-wave.webp"
+    },
+    {
+     "piece": "Visor Advisor",
+     "variant": "Climbing Gym",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/aerobic-apocalypse-visor-advisor-climbing-gym.webp"
+    },
+    {
+     "piece": "Working It",
+     "variant": "Aqua Pullup",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/aerobic-apocalypse-working-it-aqua-pullup.webp"
+    },
+    {
+     "piece": "Working It",
+     "variant": "Energy Drink",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/aerobic-apocalypse-working-it-energy-drink.webp"
+    }
+   ]
+  },
+  {
+   "name": "Akuma",
+   "note": "(Pass)",
+   "items": [
+    {
+     "piece": "Mecharai",
+     "variant": "Freeze",
+     "source": "Shop Offer (Mo.Gold)",
+     "rarity": "Epic",
+     "image": "img/hats/akuma-mecharai-freeze.webp"
+    },
+    {
+     "piece": "Mecharai",
+     "variant": "Fury",
+     "source": "Pass\nShop Offer (Mo.Gold)",
+     "rarity": "Epic",
+     "image": "img/hats/akuma-mecharai-fury.webp"
+    },
+    {
+     "piece": "Street Hunter",
+     "variant": "Freeze",
+     "source": "R&D: Akuma",
+     "rarity": "Epic",
+     "image": "img/hats/akuma-street-hunter-freeze.webp"
+    },
+    {
+     "piece": "Street Hunter",
+     "variant": "Fury",
+     "source": "Pass",
+     "rarity": "Epic",
+     "image": "img/hats/akuma-street-hunter-fury.webp"
+    },
+    {
+     "piece": "Street Hunter",
+     "variant": "Pure",
+     "source": "Pass",
+     "rarity": "Epic",
+     "image": "img/hats/akuma-street-hunter-pure.webp"
+    }
+   ]
+  },
+  {
+   "name": "Ballroom Rebel",
+   "note": null,
+   "items": [
+    {
+     "piece": "Masquerade Wave",
+     "variant": "Teatime Teal",
+     "source": "S3 Final Stretch Sprint",
+     "rarity": "Basic",
+     "image": "img/hats/ballroom-rebel-masquerade-wave-teatime-teal.webp"
+    }
+   ]
+  },
+  {
+   "name": "Beetle Queen",
+   "note": null,
+   "items": [
+    {
+     "piece": "Pincer Shades",
+     "variant": "Velvet Blue",
+     "source": "Shop Offer",
+     "rarity": "Epic",
+     "image": "img/hats/beetle-queen-pincer-shades-velvet-blue.webp"
+    },
+    {
+     "piece": "Scarab Caplet",
+     "variant": "Favorite Jester",
+     "source": "Mo.Co's Merit Initiative Event",
+     "rarity": "Epic",
+     "image": "img/hats/beetle-queen-scarab-caplet-favorite-jester.webp"
+    }
+   ]
+  },
+  {
+   "name": "Big Papa",
+   "note": "Shop Offer",
+   "items": [
+    {
+     "piece": "Papa Ready",
+     "variant": "Fog Burn",
+     "source": "Shop Offer ($$)",
+     "rarity": "Epic",
+     "image": "img/hats/big-papa-papa-ready-fog-burn.webp"
+    },
+    {
+     "piece": "Zone IN",
+     "variant": "Spoiled Maple",
+     "source": "Shop Offer ($$)",
+     "rarity": "Epic",
+     "image": "img/hats/big-papa-zone-in-spoiled-maple.webp"
+    },
+    {
+     "piece": "Once Bitten",
+     "variant": "Monster Hawk",
+     "source": "Community Event:\nSniffers vs. Tacticats",
+     "rarity": "Basic",
+     "image": "img/hats/big-papa-once-bitten-monster-hawk.webp"
+    }
+   ]
+  },
+  {
+   "name": "Blood Sucker",
+   "note": null,
+   "items": [
+    {
+     "piece": "Fallen Templar",
+     "variant": "Ravenfeather",
+     "source": "Shop Offer ($)",
+     "rarity": "Legendary",
+     "image": "img/hats/blood-sucker-fallen-templar-ravenfeather.webp"
+    },
+    {
+     "piece": "Gnarly Cap",
+     "variant": "Murky",
+     "source": "Shop Offer ($)",
+     "rarity": "Epic",
+     "image": "img/hats/blood-sucker-gnarly-cap-murky.webp"
+    },
+    {
+     "piece": "Gnarly Cap",
+     "variant": "Undershade",
+     "source": "Shop Offer ($)",
+     "rarity": "Epic",
+     "image": "img/hats/blood-sucker-gnarly-cap-undershade.webp"
+    },
+    {
+     "piece": "Operatic Sweeps",
+     "variant": "Argentum",
+     "source": "Blood Sucker Premium Sprint",
+     "rarity": "Epic",
+     "image": "img/hats/blood-sucker-operatic-sweeps-argentum.webp"
+    },
+    {
+     "piece": "Spectral Spectacles",
+     "variant": "Argentum",
+     "source": "Blood Sucker Sprint",
+     "rarity": "Basic",
+     "image": "img/hats/blood-sucker-spectral-spectacles-argentum.webp"
+    }
+   ]
+  },
+  {
+   "name": "Candied Punk",
+   "note": "(Pass / Gacha)",
+   "items": [
+    {
+     "piece": "Lollipop Riot",
+     "variant": "Bubblegum",
+     "source": "Pass",
+     "rarity": "Legendary",
+     "image": "img/hats/candied-punk-lollipop-riot-bubblegum.webp"
+    },
+    {
+     "piece": "Lollipop Riot",
+     "variant": "Cherry",
+     "source": "Mo.Gold Gacha\nShop Offer (Mogold)",
+     "rarity": "Epic",
+     "image": "img/hats/candied-punk-lollipop-riot-cherry.webp"
+    },
+    {
+     "piece": "Pop Rox",
+     "variant": "Bubblegum",
+     "source": "Mo.Gold Gacha\nShop Offer (Mogold)",
+     "rarity": "Epic",
+     "image": "img/hats/candied-punk-pop-rox-bubblegum.webp"
+    },
+    {
+     "piece": "Pop Rox",
+     "variant": "Tealberry",
+     "source": "Mo.Gold Gacha\nShop Offer (Mogold)",
+     "rarity": "Epic",
+     "image": "img/hats/candied-punk-pop-rox-tealberry.webp"
+    },
+    {
+     "piece": "Sugar Shade",
+     "variant": "Bubblegum",
+     "source": "Mo.Gold Gacha\nShop Offer (Mogold)",
+     "rarity": "Epic",
+     "image": "img/hats/candied-punk-sugar-shade-bubblegum.webp"
+    },
+    {
+     "piece": "Sugar Shade",
+     "variant": "Tropical Wave",
+     "source": "Mo.Gold Gacha\nShop Offer (Mogold)",
+     "rarity": "Epic",
+     "image": "img/hats/candied-punk-sugar-shade-tropical-wave.webp"
+    },
+    {
+     "piece": "Sugar Drip",
+     "variant": "Berry Blast",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/candied-punk-sugar-drip-berry-blast.webp"
+    },
+    {
+     "piece": "Sugar Drip",
+     "variant": "Lemon Lime",
+     "source": "Mo.Gold Gacha\nShop Offer (Merch Token)",
+     "rarity": "Basic",
+     "image": "img/hats/candied-punk-sugar-drip-lemon-lime.webp"
+    },
+    {
+     "piece": "Sugar Drip",
+     "variant": "Sour Apple",
+     "source": "Mo.Gold Gacha\nShop Offer (Merch Token)",
+     "rarity": "Basic",
+     "image": "img/hats/candied-punk-sugar-drip-sour-apple.webp"
+    },
+    {
+     "piece": "Sugar Drip",
+     "variant": "Bubblegum",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/candied-punk-sugar-drip-bubblegum.webp"
+    },
+    {
+     "piece": "Sweet Rebel",
+     "variant": "Bubblegum",
+     "source": "1st Anniversary Shop Offer",
+     "rarity": "Basic",
+     "image": "img/hats/candied-punk-sweet-rebel-bubblegum.webp"
+    },
+    {
+     "piece": "Sweet Rebel",
+     "variant": "Butterscotch",
+     "source": "Shop Offer (Merch Token)",
+     "rarity": "Basic",
+     "image": "img/hats/candied-punk-sweet-rebel-butterscotch.webp"
+    },
+    {
+     "piece": "Sweet Rebel",
+     "variant": "Ice Breaker",
+     "source": null,
+     "rarity": "Basic",
+     "image": "img/hats/candied-punk-sweet-rebel-ice-breaker.webp"
+    },
+    {
+     "piece": "Sweet Rebel",
+     "variant": "Sour Apple",
+     "source": "Shop Offer (Merch Token)",
+     "rarity": "Basic",
+     "image": "img/hats/candied-punk-sweet-rebel-sour-apple.webp"
+    }
+   ]
+  },
+  {
+   "name": "Cardboard Knight",
+   "note": "(Gacha/Pass)",
+   "items": [
+    {
+     "piece": "M'Lady McCrinkle",
+     "variant": "Cotton Candy Corrugate",
+     "source": "Pass\nManny's Remix",
+     "rarity": "Epic",
+     "image": "img/hats/cardboard-knight-m-lady-mccrinkle-cotton-candy-corrugate.webp"
+    },
+    {
+     "piece": "Sir Tear-a-Lot",
+     "variant": "Kraft Khaki",
+     "source": "Mo.Gold Gacha\nManny's Remix",
+     "rarity": "Epic",
+     "image": "img/hats/cardboard-knight-sir-tear-a-lot-kraft-khaki.webp"
+    }
+   ]
+  },
+  {
+   "name": "Community Curated",
+   "note": "(Exclusive Event)",
+   "items": [
+    {
+     "piece": "The Bean",
+     "variant": "Discord Blue",
+     "source": "Event",
+     "rarity": "Epic",
+     "image": "img/hats/community-curated-the-bean-discord-blue.webp"
+    },
+    {
+     "piece": "Soul Hunter",
+     "variant": "Crimson",
+     "source": "Neo Moco Rewards",
+     "rarity": "Epic",
+     "image": "img/hats/community-curated-soul-hunter-crimson.webp"
+    }
+   ]
+  },
+  {
+   "name": "Cyber Racer",
+   "note": "(Gacha)",
+   "items": [
+    {
+     "piece": "Void Racer X",
+     "variant": "Plasma Bloom",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Legendary",
+     "image": "img/hats/cyber-racer-void-racer-x-plasma-bloom.webp"
+    },
+    {
+     "piece": "Delta Visor",
+     "variant": "Night Rider",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/cyber-racer-delta-visor-night-rider.webp"
+    },
+    {
+     "piece": "Delta Visor",
+     "variant": "Ion Fade",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/cyber-racer-delta-visor-ion-fade.webp"
+    },
+    {
+     "piece": "Narrow Vision",
+     "variant": "Ion Fade",
+     "source": "Manny's Remix\nMo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/cyber-racer-narrow-vision-ion-fade.webp"
+    },
+    {
+     "piece": "Narrow Vision",
+     "variant": "Coreflare",
+     "source": "Manny's Remix\nMo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/cyber-racer-narrow-vision-coreflare.webp"
+    },
+    {
+     "piece": "Wide Vision",
+     "variant": "Night Rider",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/cyber-racer-wide-vision-night-rider.webp"
+    },
+    {
+     "piece": "Wide Vision",
+     "variant": "Data Flash",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/cyber-racer-wide-vision-data-flash.webp"
+    }
+   ]
+  },
+  {
+   "name": "Disco Dancer",
+   "note": "(Pass)",
+   "items": [
+    {
+     "piece": "Boogie Fever",
+     "variant": "Friday Night",
+     "source": "Pass\nElite Merch",
+     "rarity": "Epic",
+     "image": "img/hats/disco-dancer-boogie-fever-friday-night.webp"
+    },
+    {
+     "piece": "Shimmer Queen",
+     "variant": "Friday Night",
+     "source": "Elite Merch",
+     "rarity": "Epic",
+     "image": "img/hats/disco-dancer-shimmer-queen-friday-night.webp"
+    },
+    {
+     "piece": "Shimmer Queen",
+     "variant": "Saturday Night",
+     "source": "Pass",
+     "rarity": "Epic",
+     "image": "img/hats/disco-dancer-shimmer-queen-saturday-night.webp"
+    }
+   ]
+  },
+  {
+   "name": "Deadeye",
+   "note": null,
+   "items": [
+    {
+     "piece": "Aim Wrap",
+     "variant": "Cerulean",
+     "source": "Shop Offer (Mo.gold)",
+     "rarity": "Basic",
+     "image": "img/hats/deadeye-aim-wrap-cerulean.webp"
+    }
+   ]
+  },
+  {
+   "name": "Dragon Wear",
+   "note": null,
+   "items": [
+    {
+     "piece": "Dragonshady",
+     "variant": "Moonshadow",
+     "source": "Ch 1. Elite Pass",
+     "rarity": "Epic",
+     "image": "img/hats/dragon-wear-dragonshady-moonshadow.webp"
+    },
+    {
+     "piece": "Dragonshady",
+     "variant": "Sunfire",
+     "source": "Ch 1. Free Pass\nElite Merch",
+     "rarity": "Epic",
+     "image": "img/hats/dragon-wear-dragonshady-sunfire.webp"
+    },
+    {
+     "piece": "Wyrm Warmth",
+     "variant": "Moonshadow",
+     "source": "Ch 1. Elite Pass",
+     "rarity": "Epic",
+     "image": "img/hats/dragon-wear-wyrm-warmth-moonshadow.webp"
+    },
+    {
+     "piece": "Wyrm Warmth",
+     "variant": "Sunfire",
+     "source": "Ch 1. Free Pass\nElite Merch",
+     "rarity": "Epic",
+     "image": "img/hats/dragon-wear-wyrm-warmth-sunfire.webp"
+    }
+   ]
+  },
+  {
+   "name": "Eldritch Horror",
+   "note": null,
+   "items": [
+    {
+     "piece": "Xorath the Lamenting",
+     "variant": "Scarlet Abyss",
+     "source": "Ch 1. Elite Pass\nElite Merch",
+     "rarity": "Legendary",
+     "image": "img/hats/eldritch-horror-xorath-the-lamenting-scarlet-abyss.webp"
+    },
+    {
+     "piece": "Dreadtide Chief",
+     "variant": "Tarnished Bronze",
+     "source": "Pass",
+     "rarity": "Epic",
+     "image": "img/hats/eldritch-horror-dreadtide-chief-tarnished-bronze.webp"
+    },
+    {
+     "piece": "Kraken Kap",
+     "variant": "Cursed Gilding",
+     "source": "Pass",
+     "rarity": "Epic",
+     "image": "img/hats/eldritch-horror-kraken-kap-cursed-gilding.webp"
+    }
+   ]
+  },
+  {
+   "name": "Essentials Vol. 1",
+   "note": null,
+   "items": [
+    {
+     "piece": "Augmented Virtuals",
+     "variant": "Make Friends",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/essentials-vol-1-augmented-virtuals-make-friends.webp"
+    },
+    {
+     "piece": "Augmented Virtuals",
+     "variant": "Take a Walk",
+     "source": "Token Gacha\nManny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/essentials-vol-1-augmented-virtuals-take-a-walk.webp"
+    },
+    {
+     "piece": "Augmented Virtuals",
+     "variant": "Touch Grass",
+     "source": "Token Gacha\nManny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/essentials-vol-1-augmented-virtuals-touch-grass.webp"
+    },
+    {
+     "piece": "Feather Dusters",
+     "variant": "Boreas",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/essentials-vol-1-feather-dusters-boreas.webp"
+    },
+    {
+     "piece": "Feather Dusters",
+     "variant": "Cupid",
+     "source": "Token Gacha\nManny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/essentials-vol-1-feather-dusters-cupid.webp"
+    },
+    {
+     "piece": "Feather Dusters",
+     "variant": "Hermes",
+     "source": "Token Gacha\nManny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/essentials-vol-1-feather-dusters-hermes.webp"
+    },
+    {
+     "piece": "Mood Circles",
+     "variant": "Calm",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/essentials-vol-1-mood-circles-calm.webp"
+    },
+    {
+     "piece": "Mood Circles",
+     "variant": "Excited",
+     "source": "Token Gacha\nManny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/essentials-vol-1-mood-circles-excited.webp"
+    },
+    {
+     "piece": "Mood Circles",
+     "variant": "Grateful",
+     "source": "Token Gacha\nManny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/essentials-vol-1-mood-circles-grateful.webp"
+    },
+    {
+     "piece": "On a Boat",
+     "variant": "Ahoy There",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/essentials-vol-1-on-a-boat-ahoy-there.webp"
+    },
+    {
+     "piece": "On a Boat",
+     "variant": "All Hands On Deck",
+     "source": "Token Gacha\nManny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/essentials-vol-1-on-a-boat-all-hands-on-deck.webp"
+    },
+    {
+     "piece": "On a Boat",
+     "variant": "Aye Aye Captain",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/essentials-vol-1-on-a-boat-aye-aye-captain.webp"
+    },
+    {
+     "piece": "On a Boat",
+     "variant": "Land Ho",
+     "source": "Token Gacha\nManny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/essentials-vol-1-on-a-boat-land-ho.webp"
+    },
+    {
+     "piece": "Thunderdome",
+     "variant": "Kaboom",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/essentials-vol-1-thunderdome-kaboom.webp"
+    },
+    {
+     "piece": "Thunderdome",
+     "variant": "Kapow",
+     "source": "Token Gacha\nManny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/essentials-vol-1-thunderdome-kapow.webp"
+    },
+    {
+     "piece": "Thunderdome",
+     "variant": "Zap",
+     "source": "Token Gacha\nManny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/essentials-vol-1-thunderdome-zap.webp"
+    },
+    {
+     "piece": "Windshield",
+     "variant": "Bogey",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/essentials-vol-1-windshield-bogey.webp"
+    },
+    {
+     "piece": "Windshield",
+     "variant": "OB",
+     "source": "Token Gacha\nManny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/essentials-vol-1-windshield-ob.webp"
+    }
+   ]
+  },
+  {
+   "name": "Essentials Vol. 2",
+   "note": null,
+   "items": [
+    {
+     "piece": "Calculating",
+     "variant": "No Joke",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/essentials-vol-2-calculating-no-joke.webp"
+    },
+    {
+     "piece": "Calculating",
+     "variant": "Tangerine",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/essentials-vol-2-calculating-tangerine.webp"
+    },
+    {
+     "piece": "Skritchie Cap",
+     "variant": "Pitch",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/essentials-vol-2-skritchie-cap-pitch.webp"
+    },
+    {
+     "piece": "Skritchie Cap",
+     "variant": "Pool",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/essentials-vol-2-skritchie-cap-pool.webp"
+    },
+    {
+     "piece": "Swoopy",
+     "variant": "Light Thoughts",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/essentials-vol-2-swoopy-light-thoughts.webp"
+    },
+    {
+     "piece": "Swoopy",
+     "variant": "Sunny Thoughts",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/essentials-vol-2-swoopy-sunny-thoughts.webp"
+    }
+   ]
+  },
+  {
+   "name": "Fallout Fashion",
+   "note": null,
+   "items": [
+    {
+     "piece": "Expendable Worker 5225",
+     "variant": "Cleanup Crew",
+     "source": "Ch 2. Elite Pass",
+     "rarity": "Legendary",
+     "image": "img/hats/fallout-fashion-expendable-worker-5225-cleanup-crew.webp"
+    },
+    {
+     "piece": "Expendable Worker 5225",
+     "variant": "Cleanup Crew Rescue",
+     "source": "Ch 2. Elite Pass",
+     "rarity": "Legendary",
+     "image": "img/hats/fallout-fashion-expendable-worker-5225-cleanup-crew-rescue.webp"
+    },
+    {
+     "piece": "Face Shelter",
+     "variant": "Phthalo Green",
+     "source": "Ch 2. Elite Pass",
+     "rarity": "Epic",
+     "image": "img/hats/fallout-fashion-face-shelter-phthalo-green.webp"
+    },
+    {
+     "piece": "Face Shelter",
+     "variant": "Phthalo Orange",
+     "source": "Ch 2. Free Pass",
+     "rarity": "Epic",
+     "image": "img/hats/fallout-fashion-face-shelter-phthalo-orange.webp"
+    },
+    {
+     "piece": "Blast Specs",
+     "variant": "Gluon Detector",
+     "source": "S5 Sprint: Fallout Fashion",
+     "rarity": "Basic",
+     "image": "img/hats/fallout-fashion-blast-specs-gluon-detector.webp"
+    },
+    {
+     "piece": "Blast Specs",
+     "variant": "Tachyon Detector",
+     "source": "Pass, Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/fallout-fashion-blast-specs-tachyon-detector.webp"
+    },
+    {
+     "piece": "Blast Specs",
+     "variant": "Muon Detector",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/fallout-fashion-blast-specs-muon-detector.webp"
+    }
+   ]
+  },
+  {
+   "name": "Fancy Wrench",
+   "note": null,
+   "items": [
+    {
+     "piece": "Interdimensional Visitor",
+     "variant": "Purplexing",
+     "source": "Mo.Gold Gacha (Completion)",
+     "rarity": "Legendary",
+     "image": "img/hats/fancy-wrench-interdimensional-visitor-purplexing.webp"
+    },
+    {
+     "piece": "Coolant Crew Helmet",
+     "variant": "Tangineer",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/fancy-wrench-coolant-crew-helmet-tangineer.webp"
+    },
+    {
+     "piece": "Welder's Mask",
+     "variant": "Purplexing",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/fancy-wrench-welder-s-mask-purplexing.webp"
+    },
+    {
+     "piece": "Welder's Mask",
+     "variant": "Tangineer",
+     "source": "Fancy Wrench Premium Sprint",
+     "rarity": "Epic",
+     "image": "img/hats/fancy-wrench-welder-s-mask-tangineer.webp"
+    },
+    {
+     "piece": "Caps & Flaps",
+     "variant": "Purplexing",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/fancy-wrench-caps-flaps-purplexing.webp"
+    },
+    {
+     "piece": "Tech Wrap",
+     "variant": "Boosted Blue",
+     "source": "Fancy Wrench Sprint",
+     "rarity": "Basic",
+     "image": "img/hats/fancy-wrench-tech-wrap-boosted-blue.webp"
+    }
+   ]
+  },
+  {
+   "name": "Ferocious Flora",
+   "note": null,
+   "items": [
+    {
+     "piece": "Head of Cabbage",
+     "variant": "Chlorokill",
+     "source": "Pass\nManny's Remix",
+     "rarity": "Epic",
+     "image": "img/hats/ferocious-flora-head-of-cabbage-chlorokill.webp"
+    },
+    {
+     "piece": "Head of Cabbage",
+     "variant": "Nightshade Root",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/ferocious-flora-head-of-cabbage-nightshade-root.webp"
+    },
+    {
+     "piece": "Orchid Crown",
+     "variant": "Chlorokill",
+     "source": "Pass,\nShop Offer (Mo.gold)",
+     "rarity": "Epic",
+     "image": "img/hats/ferocious-flora-orchid-crown-chlorokill.webp"
+    },
+    {
+     "piece": "Orchid Crown",
+     "variant": "Nightshade Root",
+     "source": "Mo.Gold Gacha,\nManny's Remix",
+     "rarity": "Epic",
+     "image": "img/hats/ferocious-flora-orchid-crown-nightshade-root.webp"
+    }
+   ]
+  },
+  {
+   "name": "Feudal Feral",
+   "note": null,
+   "items": [
+    {
+     "piece": "Rotback the Wicked",
+     "variant": "Grass Fang",
+     "source": "Elite Merits",
+     "rarity": "Legendary",
+     "image": "img/hats/feudal-feral-rotback-the-wicked-grass-fang.webp"
+    },
+    {
+     "piece": "Rotback the Wicked",
+     "variant": "Jackal Sky",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Legendary",
+     "image": "img/hats/feudal-feral-rotback-the-wicked-jackal-sky.webp"
+    },
+    {
+     "piece": "Buttheader",
+     "variant": "Bonehowl",
+     "source": "Mo.Gold Gacha\nShop Offer",
+     "rarity": "Epic",
+     "image": "img/hats/feudal-feral-buttheader-bonehowl.webp"
+    },
+    {
+     "piece": "Buttheader",
+     "variant": "Plum Shade",
+     "source": "Mo.Gold Gacha\nShop Offer",
+     "rarity": "Epic",
+     "image": "img/hats/feudal-feral-buttheader-plum-shade.webp"
+    },
+    {
+     "piece": "Rambassador",
+     "variant": "Wine",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/feudal-feral-rambassador-wine.webp"
+    },
+    {
+     "piece": "Rambassador",
+     "variant": "Brutal",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/feudal-feral-rambassador-brutal.webp"
+    },
+    {
+     "piece": "Fangs",
+     "variant": "Hide",
+     "source": "Mo. Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/feudal-feral-fangs-hide.webp"
+    },
+    {
+     "piece": "Fangs",
+     "variant": "Moss",
+     "source": "Mo. Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/feudal-feral-fangs-moss.webp"
+    },
+    {
+     "piece": "Fangs",
+     "variant": "Sand",
+     "source": "Mo. Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/feudal-feral-fangs-sand.webp"
+    },
+    {
+     "piece": "Fangs",
+     "variant": "Stone",
+     "source": "Mo.Gold Gacha\nShop Offer",
+     "rarity": "Basic",
+     "image": "img/hats/feudal-feral-fangs-stone.webp"
+    },
+    {
+     "piece": "Kawai Panda",
+     "variant": "Clouds",
+     "source": "Mo. Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/feudal-feral-kawai-panda-clouds.webp"
+    },
+    {
+     "piece": "Kawai Panda",
+     "variant": "Grass",
+     "source": "Mo.Gold Gacha\nShop Offer",
+     "rarity": "Basic",
+     "image": "img/hats/feudal-feral-kawai-panda-grass.webp"
+    },
+    {
+     "piece": "Kawai Panda",
+     "variant": "Mandarin",
+     "source": "Mo.Gold Gacha\nToken Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/feudal-feral-kawai-panda-mandarin.webp"
+    },
+    {
+     "piece": "Kawai Panda",
+     "variant": "Peach",
+     "source": "Mo. Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/feudal-feral-kawai-panda-peach.webp"
+    },
+    {
+     "piece": "Laughjaw",
+     "variant": "Dirt Rat",
+     "source": "Mo. Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/feudal-feral-laughjaw-dirt-rat.webp"
+    },
+    {
+     "piece": "Laughjaw",
+     "variant": "Ember Tongue",
+     "source": "Mo. Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/feudal-feral-laughjaw-ember-tongue.webp"
+    },
+    {
+     "piece": "Laughjaw",
+     "variant": "Jackal Sky",
+     "source": "Mo. Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/feudal-feral-laughjaw-jackal-sky.webp"
+    },
+    {
+     "piece": "Laughjaw",
+     "variant": "Mossbite",
+     "source": "Mo. Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/feudal-feral-laughjaw-mossbite.webp"
+    }
+   ]
+  },
+  {
+   "name": "Fluffy Bruiser",
+   "note": null,
+   "items": [
+    {
+     "piece": "Blitzstorm Battle Bunny",
+     "variant": "Skypuff",
+     "source": "1st Anniversary Shop Offer",
+     "rarity": "Epic",
+     "image": "img/hats/fluffy-bruiser-blitzstorm-battle-bunny-skypuff.webp"
+    },
+    {
+     "piece": "Blitzstorm Battle Bunny",
+     "variant": "SoftCoal",
+     "source": "Manny's Remix",
+     "rarity": "Epic",
+     "image": "img/hats/fluffy-bruiser-blitzstorm-battle-bunny-softcoal.webp"
+    },
+    {
+     "piece": "Chaos Cat Crusader",
+     "variant": "PeachPaw",
+     "source": "Elite Merch",
+     "rarity": "Epic",
+     "image": "img/hats/fluffy-bruiser-chaos-cat-crusader-peachpaw.webp"
+    },
+    {
+     "piece": "Chaos Cat Crusader",
+     "variant": "SkyPuff",
+     "source": "Elite Merch",
+     "rarity": "Epic",
+     "image": "img/hats/fluffy-bruiser-chaos-cat-crusader-skypuff.webp"
+    },
+    {
+     "piece": "Chaos Cat Crusader",
+     "variant": "SoftCoal",
+     "source": "Manny's Remix",
+     "rarity": "Epic",
+     "image": "img/hats/fluffy-bruiser-chaos-cat-crusader-softcoal.webp"
+    }
+   ]
+  },
+  {
+   "name": "Glam Love",
+   "note": null,
+   "items": [
+    {
+     "piece": "Lonestar Lover",
+     "variant": "Pink Pony Club",
+     "source": "Pass",
+     "rarity": "Epic",
+     "image": "img/hats/glam-love-lonestar-lover-pink-pony-club.webp"
+    },
+    {
+     "piece": "Lonestar Lover",
+     "variant": "Vitamin Me",
+     "source": "Pass",
+     "rarity": "Epic",
+     "image": "img/hats/glam-love-lonestar-lover-vitamin-me.webp"
+    },
+    {
+     "piece": "Luv-Vision",
+     "variant": "Ice Cold",
+     "source": "Pass",
+     "rarity": "Epic",
+     "image": "img/hats/glam-love-luv-vision-ice-cold.webp"
+    },
+    {
+     "piece": "Luv-Vision",
+     "variant": "Pink Pony Club",
+     "source": "Pass",
+     "rarity": "Epic",
+     "image": "img/hats/glam-love-luv-vision-pink-pony-club.webp"
+    },
+    {
+     "piece": "Luv-Vision",
+     "variant": "Toxic",
+     "source": "S6 Glam Love Sprint",
+     "rarity": "Epic",
+     "image": "img/hats/glam-love-luv-vision-toxic.webp"
+    },
+    {
+     "piece": "Luv-Vision",
+     "variant": "Vitamin Me",
+     "source": "Pass",
+     "rarity": "Epic",
+     "image": "img/hats/glam-love-luv-vision-vitamin-me.webp"
+    }
+   ]
+  },
+  {
+   "name": "Head Banger",
+   "note": null,
+   "items": [
+    {
+     "piece": "Dorian, Archon of Distortion",
+     "variant": "Sea of Sorrow",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Legendary",
+     "image": "img/hats/head-banger-dorian-archon-of-distortion-sea-of-sorrow.webp"
+    },
+    {
+     "piece": "Face Melter",
+     "variant": "Vaporous Ether",
+     "source": "Shop Offer",
+     "rarity": "Epic",
+     "image": "img/hats/head-banger-face-melter-vaporous-ether.webp"
+    },
+    {
+     "piece": "Metal Mom Knit",
+     "variant": "Thunder Strike",
+     "source": "Final Stretch Pass",
+     "rarity": "Basic",
+     "image": "img/hats/head-banger-metal-mom-knit-thunder-strike.webp"
+    },
+    {
+     "piece": "Painful Thoughts",
+     "variant": "Backstage Pass",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/head-banger-painful-thoughts-backstage-pass.webp"
+    },
+    {
+     "piece": "Unholy Liberty",
+     "variant": "Smoke Machine",
+     "source": "Mo.Gold Gacha,\nShop Offer ($, Mo.gold)",
+     "rarity": "Basic",
+     "image": "img/hats/head-banger-unholy-liberty-smoke-machine.webp"
+    },
+    {
+     "piece": "Unholy Liberty",
+     "variant": "Thunder Strike",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/head-banger-unholy-liberty-thunder-strike.webp"
+    }
+   ]
+  },
+  {
+   "name": "Hornbow",
+   "note": null,
+   "items": [
+    {
+     "piece": "Exalted Beastlord",
+     "variant": "Phantom Bloom",
+     "source": "MoGold Gacha",
+     "rarity": "Legendary",
+     "image": "img/hats/hornbow-exalted-beastlord-phantom-bloom.webp"
+    },
+    {
+     "piece": "Beast Clan Headpiece",
+     "variant": "Terror Teal",
+     "source": "Hornbow Premium Sprint",
+     "rarity": "Epic",
+     "image": "img/hats/hornbow-beast-clan-headpiece-terror-teal.webp"
+    },
+    {
+     "piece": "Savage Scurs",
+     "variant": "Phantom Bloom",
+     "source": "MoGold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/hornbow-savage-scurs-phantom-bloom.webp"
+    },
+    {
+     "piece": "Savage Scurs",
+     "variant": "Terror Teal",
+     "source": "MoGold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/hornbow-savage-scurs-terror-teal.webp"
+    },
+    {
+     "piece": "Beast Clan Beanie",
+     "variant": "Phantom Bloom",
+     "source": "Hornbow Sprint",
+     "rarity": "Basic",
+     "image": "img/hats/hornbow-beast-clan-beanie-phantom-bloom.webp"
+    },
+    {
+     "piece": "Beast Clan Beanie",
+     "variant": "Terror Teal",
+     "source": "MoGold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/hornbow-beast-clan-beanie-terror-teal.webp"
+    },
+    {
+     "piece": "Beast Horns",
+     "variant": "Phantom Bloom",
+     "source": "Shop Offer (MoGold)",
+     "rarity": "Basic",
+     "image": "img/hats/hornbow-beast-horns-phantom-bloom.webp"
+    }
+   ]
+  },
+  {
+   "name": "Lava Shield",
+   "note": null,
+   "items": [
+    {
+     "piece": "Bedrock",
+     "variant": "Helm",
+     "source": "Premium Weapon Sprint",
+     "rarity": "Epic",
+     "image": "img/hats/lava-shield-bedrock-helm.webp"
+    }
+   ]
+  },
+  {
+   "name": "Marshall Columbia",
+   "note": "Collab",
+   "items": [
+    {
+     "piece": "Bugging Out",
+     "variant": "Amber",
+     "source": "Shop Offer",
+     "rarity": "Epic",
+     "image": "img/hats/marshall-columbia-bugging-out-amber.webp"
+    },
+    {
+     "piece": "Bugging Out",
+     "variant": "Mellow",
+     "source": "Shop Offer",
+     "rarity": "Epic",
+     "image": "img/hats/marshall-columbia-bugging-out-mellow.webp"
+    },
+    {
+     "piece": "Wooly Slammoth",
+     "variant": "Amber",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/marshall-columbia-wooly-slammoth-amber.webp"
+    },
+    {
+     "piece": "Wooly Slammoth",
+     "variant": "Aurora",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/marshall-columbia-wooly-slammoth-aurora.webp"
+    },
+    {
+     "piece": "Grid Lid",
+     "variant": "Amber",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/marshall-columbia-grid-lid-amber.webp"
+    },
+    {
+     "piece": "Grid Lid",
+     "variant": "Frost",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/marshall-columbia-grid-lid-frost.webp"
+    },
+    {
+     "piece": "Grid Lid",
+     "variant": "Mellow",
+     "source": "Shop Offer",
+     "rarity": "Basic",
+     "image": "img/hats/marshall-columbia-grid-lid-mellow.webp"
+    },
+    {
+     "piece": "Grid Lid",
+     "variant": "Solar Flare",
+     "source": "Shop Offer",
+     "rarity": "Basic",
+     "image": "img/hats/marshall-columbia-grid-lid-solar-flare.webp"
+    },
+    {
+     "piece": "Toasty Dome",
+     "variant": "Abyss",
+     "source": "Pass",
+     "rarity": "Basic",
+     "image": "img/hats/marshall-columbia-toasty-dome-abyss.webp"
+    },
+    {
+     "piece": "Toasty Dome",
+     "variant": "Frosty",
+     "source": "Shop Offer",
+     "rarity": "Basic",
+     "image": "img/hats/marshall-columbia-toasty-dome-frosty.webp"
+    },
+    {
+     "piece": "Toasty Dome",
+     "variant": "Mellow",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/marshall-columbia-toasty-dome-mellow.webp"
+    }
+   ]
+  },
+  {
+   "name": "Mecha Mythical",
+   "note": null,
+   "items": [
+    {
+     "piece": "Armored Griffin",
+     "variant": "Moonlit Shadow",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Legendary",
+     "image": "img/hats/mecha-mythical-armored-griffin-moonlit-shadow.webp"
+    },
+    {
+     "piece": "Armored Griffin",
+     "variant": "Rose Quartz",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Legendary",
+     "image": "img/hats/mecha-mythical-armored-griffin-rose-quartz.webp"
+    },
+    {
+     "piece": "Pegasus",
+     "variant": "Moonlit Shadow",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/mecha-mythical-pegasus-moonlit-shadow.webp"
+    },
+    {
+     "piece": "Pegasus",
+     "variant": "Rose Quartz",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/mecha-mythical-pegasus-rose-quartz.webp"
+    },
+    {
+     "piece": "Unicorn",
+     "variant": "Emerald Glow",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/mecha-mythical-unicorn-emerald-glow.webp"
+    },
+    {
+     "piece": "Unicorn",
+     "variant": "Nebula Veil",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/mecha-mythical-unicorn-nebula-veil.webp"
+    },
+    {
+     "piece": "Datalens",
+     "variant": "Crimson Flame",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/mecha-mythical-datalens-crimson-flame.webp"
+    },
+    {
+     "piece": "Datalens",
+     "variant": "Nebula Veil",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/mecha-mythical-datalens-nebula-veil.webp"
+    },
+    {
+     "piece": "Datalens",
+     "variant": "Ocean Mirage",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/mecha-mythical-datalens-ocean-mirage.webp"
+    },
+    {
+     "piece": "Datalens",
+     "variant": "Rose Quartz",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/mecha-mythical-datalens-rose-quartz.webp"
+    },
+    {
+     "piece": "Minovisor",
+     "variant": "Cerulean Deep",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/mecha-mythical-minovisor-cerulean-deep.webp"
+    },
+    {
+     "piece": "Minovisor",
+     "variant": "Crimson Flame",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/mecha-mythical-minovisor-crimson-flame.webp"
+    },
+    {
+     "piece": "Minovisor",
+     "variant": "Nebula Veil",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/mecha-mythical-minovisor-nebula-veil.webp"
+    },
+    {
+     "piece": "Minovisor",
+     "variant": "Solar Ember",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/mecha-mythical-minovisor-solar-ember.webp"
+    }
+   ]
+  },
+  {
+   "name": "Medicine Ball",
+   "note": null,
+   "items": [
+    {
+     "piece": "Field Medic Cap",
+     "variant": "Night Team",
+     "source": "Shop Offer (Mo.Gold)",
+     "rarity": "Epic",
+     "image": "img/hats/medicine-ball-field-medic-cap-night-team.webp"
+    },
+    {
+     "piece": "On Call",
+     "variant": null,
+     "source": "Shop Offer (Mo.Gold)",
+     "rarity": "Epic",
+     "image": "img/hats/medicine-ball-on-call.webp"
+    },
+    {
+     "piece": "Medbay Cap",
+     "variant": "Squeaky Clean",
+     "source": "Medicine Ball Sprint",
+     "rarity": "Basic",
+     "image": "img/hats/medicine-ball-medbay-cap-squeaky-clean.webp"
+    },
+    {
+     "piece": "Medicine Corps Cap",
+     "variant": "Night Team",
+     "source": "Medicine Ball Premium Sprint",
+     "rarity": "Basic",
+     "image": "img/hats/medicine-ball-medicine-corps-cap-night-team.webp"
+    },
+    {
+     "piece": "Medicine Corps Cap",
+     "variant": "Squeaky Clean",
+     "source": "Elite Merch",
+     "rarity": "Basic",
+     "image": "img/hats/medicine-ball-medicine-corps-cap-squeaky-clean.webp"
+    }
+   ]
+  },
+  {
+   "name": "Midnight Shift",
+   "note": null,
+   "items": [
+    {
+     "piece": "Face Book",
+     "variant": "Encyclopedia",
+     "source": "Elite Merch",
+     "rarity": "Basic",
+     "image": "img/hats/midnight-shift-face-book-encyclopedia.webp"
+    },
+    {
+     "piece": "Face Book",
+     "variant": "Green Gables",
+     "source": "Elite Merch",
+     "rarity": "Basic",
+     "image": "img/hats/midnight-shift-face-book-green-gables.webp"
+    }
+   ]
+  },
+  {
+   "name": "MIN",
+   "note": "South Korean Weapon Specialist",
+   "items": [
+    {
+     "piece": "Midnight Debut",
+     "variant": "Ultra Bora",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Legendary",
+     "image": "img/hats/min-midnight-debut-ultra-bora.webp"
+    },
+    {
+     "piece": "Hater Blocker",
+     "variant": "Closing Act",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/min-hater-blocker-closing-act.webp"
+    },
+    {
+     "piece": "Hater Blocker",
+     "variant": "New Denim",
+     "source": "R&D: K-POP MIN Pass",
+     "rarity": "Epic",
+     "image": "img/hats/min-hater-blocker-new-denim.webp"
+    },
+    {
+     "piece": "Popstar Essential",
+     "variant": "Blue Flame",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/min-popstar-essential-blue-flame.webp"
+    },
+    {
+     "piece": "Popstar Essential",
+     "variant": "In Your Area",
+     "source": "Shop Offer ($, Mo.Gold)",
+     "rarity": "Basic",
+     "image": "img/hats/min-popstar-essential-in-your-area.webp"
+    },
+    {
+     "piece": "Popstar Essential",
+     "variant": "Jeju Orange",
+     "source": "Shop Offer ($)",
+     "rarity": "Basic",
+     "image": "img/hats/min-popstar-essential-jeju-orange.webp"
+    }
+   ]
+  },
+  {
+   "name": "MOCO Fresh",
+   "note": null,
+   "items": [
+    {
+     "piece": "mo.co - Fresh Start",
+     "variant": "mo.co Purple",
+     "source": "Exclusive Event",
+     "rarity": "Epic",
+     "image": "img/hats/moco-fresh-mo-co-fresh-start-mo-co-purple.webp"
+    },
+    {
+     "piece": "mo.co - Fresh Start",
+     "variant": "mo.co Yellow",
+     "source": "Token Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/moco-fresh-mo-co-fresh-start-mo-co-yellow.webp"
+    }
+   ]
+  },
+  {
+   "name": "Mo.Co Sports",
+   "note": null,
+   "items": [
+    {
+     "piece": "C.U.P",
+     "variant": "Hyper Blue",
+     "source": "Manny's Remix",
+     "rarity": "Epic",
+     "image": "img/hats/mo-co-sports-c-u-p-hyper-blue.webp"
+    },
+    {
+     "piece": "C.U.P",
+     "variant": "Velocity Red",
+     "source": "Manny's Remix",
+     "rarity": "Epic",
+     "image": "img/hats/mo-co-sports-c-u-p-velocity-red.webp"
+    },
+    {
+     "piece": "Juiced Up",
+     "variant": "Flash Yellow",
+     "source": "Manny's Remix",
+     "rarity": "Epic",
+     "image": "img/hats/mo-co-sports-juiced-up-flash-yellow.webp"
+    },
+    {
+     "piece": "Juiced Up",
+     "variant": "Purple Pulse",
+     "source": "Token Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/mo-co-sports-juiced-up-purple-pulse.webp"
+    },
+    {
+     "piece": "Penalty Box",
+     "variant": "Velocity Red",
+     "source": "Manny's Remix, Pass",
+     "rarity": "Epic",
+     "image": "img/hats/mo-co-sports-penalty-box-velocity-red.webp"
+    },
+    {
+     "piece": "Punch Punch Way",
+     "variant": "Hyper Blue",
+     "source": "Manny's Remix, Pass",
+     "rarity": "Epic",
+     "image": "img/hats/mo-co-sports-punch-punch-way-hyper-blue.webp"
+    },
+    {
+     "piece": "Fastball Fit",
+     "variant": "Hyper Blue",
+     "source": null,
+     "rarity": "Basic",
+     "image": "img/hats/mo-co-sports-fastball-fit-hyper-blue.webp"
+    },
+    {
+     "piece": "Fastball Fit",
+     "variant": "Velocity Red",
+     "source": null,
+     "rarity": "Basic",
+     "image": "img/hats/mo-co-sports-fastball-fit-velocity-red.webp"
+    },
+    {
+     "piece": "Lord of the Rims",
+     "variant": "Flash Yellow",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/mo-co-sports-lord-of-the-rims-flash-yellow.webp"
+    },
+    {
+     "piece": "Lord of the Rims",
+     "variant": "Hyper Blue",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/mo-co-sports-lord-of-the-rims-hyper-blue.webp"
+    },
+    {
+     "piece": "Lord of the Rims",
+     "variant": "Purple Pulse",
+     "source": "Token Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/mo-co-sports-lord-of-the-rims-purple-pulse.webp"
+    },
+    {
+     "piece": "Lord of the Rims",
+     "variant": "Velocity Red",
+     "source": "Token Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/mo-co-sports-lord-of-the-rims-velocity-red.webp"
+    },
+    {
+     "piece": "Love Means Nothing",
+     "variant": "Flash Yellow",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/mo-co-sports-love-means-nothing-flash-yellow.webp"
+    },
+    {
+     "piece": "Love Means Nothing",
+     "variant": "Purple Pulse",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/mo-co-sports-love-means-nothing-purple-pulse.webp"
+    },
+    {
+     "piece": "Neigh-Sayer",
+     "variant": "Flash Yellow",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/mo-co-sports-neigh-sayer-flash-yellow.webp"
+    },
+    {
+     "piece": "Neigh-Sayer",
+     "variant": "Velocity Red",
+     "source": "Pass, Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/mo-co-sports-neigh-sayer-velocity-red.webp"
+    },
+    {
+     "piece": "Spin Cycle",
+     "variant": "Hyper Blue",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/mo-co-sports-spin-cycle-hyper-blue.webp"
+    },
+    {
+     "piece": "Spin Cycle",
+     "variant": "Velocity Red",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/mo-co-sports-spin-cycle-velocity-red.webp"
+    }
+   ]
+  },
+  {
+   "name": "Modern Yokai",
+   "note": null,
+   "items": [
+    {
+     "piece": "Kitsune",
+     "variant": "Momiji",
+     "source": "Pass",
+     "rarity": "Epic",
+     "image": "img/hats/modern-yokai-kitsune-momiji.webp"
+    },
+    {
+     "piece": "Kitsune",
+     "variant": "Sakura",
+     "source": "Shop Offer",
+     "rarity": "Epic",
+     "image": "img/hats/modern-yokai-kitsune-sakura.webp"
+    },
+    {
+     "piece": "SoniKitsune",
+     "variant": "Momiji",
+     "source": "Pass",
+     "rarity": "Epic",
+     "image": "img/hats/modern-yokai-sonikitsune-momiji.webp"
+    },
+    {
+     "piece": "SoniKitsune",
+     "variant": "Sakura",
+     "source": "Shop Offer",
+     "rarity": "Epic",
+     "image": "img/hats/modern-yokai-sonikitsune-sakura.webp"
+    }
+   ]
+  },
+  {
+   "name": "Noir Night",
+   "note": null,
+   "items": [
+    {
+     "piece": "Deerstalker",
+     "variant": "Peachy Keen",
+     "source": "Ch 2. Free Pass",
+     "rarity": "Epic",
+     "image": "img/hats/noir-night-deerstalker-peachy-keen.webp"
+    },
+    {
+     "piece": "Deerstalker",
+     "variant": "Elementary Teal",
+     "source": "Ch 2. Free Pass",
+     "rarity": "Epic",
+     "image": "img/hats/noir-night-deerstalker-elementary-teal.webp"
+    },
+    {
+     "piece": "Untouchabrim",
+     "variant": "File Folder Brown",
+     "source": "S5 Sprint: Noir Night",
+     "rarity": "Basic",
+     "image": "img/hats/noir-night-untouchabrim-file-folder-brown.webp"
+    },
+    {
+     "piece": "Untouchabrim",
+     "variant": "Lampshade Green",
+     "source": "1st Anniversary Shop Offer, Ch 2. Free Pass",
+     "rarity": "Basic",
+     "image": "img/hats/noir-night-untouchabrim-lampshade-green.webp"
+    },
+    {
+     "piece": "Untouchabrim",
+     "variant": "Prosecutor Gray",
+     "source": "Ch 2. Free Pass",
+     "rarity": "Basic",
+     "image": "img/hats/noir-night-untouchabrim-prosecutor-gray.webp"
+    },
+    {
+     "piece": "Untouchabrim",
+     "variant": "Smoke Cloud",
+     "source": "Ch 2. Free Pass",
+     "rarity": "Basic",
+     "image": "img/hats/noir-night-untouchabrim-smoke-cloud.webp"
+    }
+   ]
+  },
+  {
+   "name": "No Strings Attached",
+   "note": null,
+   "items": [
+    {
+     "piece": "Milo",
+     "variant": "Bruised Purple",
+     "source": "Pass, Shop Offer",
+     "rarity": "Epic",
+     "image": "img/hats/no-strings-attached-milo-bruised-purple.webp"
+    },
+    {
+     "piece": "Munch",
+     "variant": "Nothing Matters Dark",
+     "source": "Pass, Shop Offer",
+     "rarity": "Epic",
+     "image": "img/hats/no-strings-attached-munch-nothing-matters-dark.webp"
+    },
+    {
+     "piece": "Munch",
+     "variant": "Help I'm Stuck Inside Yellow",
+     "source": "Manny's Remix",
+     "rarity": "Epic",
+     "image": "img/hats/no-strings-attached-munch-help-i-m-stuck-inside-yellow.webp"
+    }
+   ]
+  },
+  {
+   "name": "Pizza Wizards",
+   "note": null,
+   "items": [
+    {
+     "piece": "The Wizard of Mozz",
+     "variant": "Eggpant Parmesan",
+     "source": "Offer, Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/pizza-wizards-the-wizard-of-mozz-eggpant-parmesan.webp"
+    },
+    {
+     "piece": "The Wizard of Mozz",
+     "variant": "Thyme Traveler",
+     "source": "Offer, Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/pizza-wizards-the-wizard-of-mozz-thyme-traveler.webp"
+    },
+    {
+     "piece": "Mage of Marinara",
+     "variant": "Thyme Traveler",
+     "source": "Offer, Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/pizza-wizards-mage-of-marinara-thyme-traveler.webp"
+    }
+   ]
+  },
+  {
+   "name": "Prismatic Bugs",
+   "note": null,
+   "items": [
+    {
+     "piece": "Shimmering Pincers",
+     "variant": "Giddy Gold",
+     "source": "Elite Merch",
+     "rarity": "Legendary",
+     "image": "img/hats/prismatic-bugs-shimmering-pincers-giddy-gold.webp"
+    },
+    {
+     "piece": "Shimmering Pincers",
+     "variant": "Radiant Purple",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Legendary",
+     "image": "img/hats/prismatic-bugs-shimmering-pincers-radiant-purple.webp"
+    },
+    {
+     "piece": "Shimmering Pincers",
+     "variant": "Vivid Green",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Legendary",
+     "image": "img/hats/prismatic-bugs-shimmering-pincers-vivid-green.webp"
+    },
+    {
+     "piece": "Waspfang",
+     "variant": "Radiant Purple",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/prismatic-bugs-waspfang-radiant-purple.webp"
+    },
+    {
+     "piece": "Waspfang",
+     "variant": "Vivid Green",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/prismatic-bugs-waspfang-vivid-green.webp"
+    }
+   ]
+  },
+  {
+   "name": "Pyro",
+   "note": null,
+   "items": [
+    {
+     "piece": "Deepfire Overlord",
+     "variant": "Daybreak",
+     "source": "Pyro Premium Sprint",
+     "rarity": "Legendary",
+     "image": "img/hats/pyro-deepfire-overlord-daybreak.webp"
+    },
+    {
+     "piece": "Ultrasonic Apparatus",
+     "variant": "Umbral",
+     "source": "Elite Merch",
+     "rarity": "Epic",
+     "image": "img/hats/pyro-ultrasonic-apparatus-umbral.webp"
+    },
+    {
+     "piece": "Bat Ear Bandana",
+     "variant": "Daybreak",
+     "source": "S4 Final Stretch",
+     "rarity": "Basic",
+     "image": "img/hats/pyro-bat-ear-bandana-daybreak.webp"
+    },
+    {
+     "piece": "Bat Ear Bandana",
+     "variant": "Umbral",
+     "source": "Pyro Sprint",
+     "rarity": "Basic",
+     "image": "img/hats/pyro-bat-ear-bandana-umbral.webp"
+    }
+   ]
+  },
+  {
+   "name": "Rando Remix",
+   "note": null,
+   "items": [
+    {
+     "piece": "Hatitude",
+     "variant": "I Guess Indigo",
+     "source": "Token Gacha\nManny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/rando-remix-hatitude-i-guess-indigo.webp"
+    },
+    {
+     "piece": "Hatitude",
+     "variant": "Not Today",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/rando-remix-hatitude-not-today.webp"
+    },
+    {
+     "piece": "Hatitude",
+     "variant": "I'm Fine",
+     "source": "Token Gacha\nManny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/rando-remix-hatitude-i-m-fine.webp"
+    },
+    {
+     "piece": "Hatitude",
+     "variant": "I'm Tired Taupe",
+     "source": "Token Gacha\nManny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/rando-remix-hatitude-i-m-tired-taupe.webp"
+    },
+    {
+     "piece": "Hatitude",
+     "variant": "Can't Even",
+     "source": "Token Gacha\nManny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/rando-remix-hatitude-can-t-even.webp"
+    },
+    {
+     "piece": "Tommi Tunes",
+     "variant": "Green",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/rando-remix-tommi-tunes-green.webp"
+    },
+    {
+     "piece": "Tommi Tunes",
+     "variant": "Pink",
+     "source": "Manny's Remix\nPass",
+     "rarity": "Basic",
+     "image": "img/hats/rando-remix-tommi-tunes-pink.webp"
+    },
+    {
+     "piece": "Tommi Tunes",
+     "variant": "Yellow",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/rando-remix-tommi-tunes-yellow.webp"
+    },
+    {
+     "piece": "Zero Effort",
+     "variant": "Almost Glam",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/rando-remix-zero-effort-almost-glam.webp"
+    },
+    {
+     "piece": "Zero Effort",
+     "variant": "Blue..I Guess",
+     "source": "Token Gacha\nManny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/rando-remix-zero-effort-blue-i-guess.webp"
+    },
+    {
+     "piece": "Zero Effort",
+     "variant": "Dirty Sunflower",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/rando-remix-zero-effort-dirty-sunflower.webp"
+    },
+    {
+     "piece": "Zero Effort",
+     "variant": "Midnight, But Whatever",
+     "source": "Token Gacha\nManny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/rando-remix-zero-effort-midnight-but-whatever.webp"
+    },
+    {
+     "piece": "Zero Effort",
+     "variant": "Pinkish",
+     "source": "Token Gacha\nManny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/rando-remix-zero-effort-pinkish.webp"
+    }
+   ]
+  },
+  {
+   "name": "Sidewalk Syndicate",
+   "note": null,
+   "items": [
+    {
+     "piece": "Canarchy",
+     "variant": "Freedom Drips",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/sidewalk-syndicate-canarchy-freedom-drips.webp"
+    },
+    {
+     "piece": "Canarchy",
+     "variant": "Graffiti Orchid",
+     "source": "Pass ($),\nS6 Sidewalk Syndicate Sprint",
+     "rarity": "Basic",
+     "image": "img/hats/sidewalk-syndicate-canarchy-graffiti-orchid.webp"
+    },
+    {
+     "piece": "Canarchy",
+     "variant": "Vandal Candy",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/sidewalk-syndicate-canarchy-vandal-candy.webp"
+    },
+    {
+     "piece": "Fisherman",
+     "variant": "Coral",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/sidewalk-syndicate-fisherman-coral.webp"
+    },
+    {
+     "piece": "Fisherman",
+     "variant": "Deep",
+     "source": "Neo Moco Gift",
+     "rarity": "Basic",
+     "image": "img/hats/sidewalk-syndicate-fisherman-deep.webp"
+    },
+    {
+     "piece": "Fisherman",
+     "variant": "Seaweed",
+     "source": "Token Gacha\nManny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/sidewalk-syndicate-fisherman-seaweed.webp"
+    },
+    {
+     "piece": "Fisherman",
+     "variant": "Sunrise",
+     "source": "Token Gacha\nManny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/sidewalk-syndicate-fisherman-sunrise.webp"
+    },
+    {
+     "piece": "Fisherman",
+     "variant": "Waves",
+     "source": "Token Gacha\nManny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/sidewalk-syndicate-fisherman-waves.webp"
+    }
+   ]
+  },
+  {
+   "name": "Silly Monsters",
+   "note": null,
+   "items": [
+    {
+     "piece": "Broke Back Berserker",
+     "variant": "Orangelo",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Legendary",
+     "image": "img/hats/silly-monsters-broke-back-berserker-orangelo.webp"
+    },
+    {
+     "piece": "Claw and Order",
+     "variant": "Bloo",
+     "source": "Mo.Gold Gacha\nShop Offer (Mo.Gold)",
+     "rarity": "Epic",
+     "image": "img/hats/silly-monsters-claw-and-order-bloo.webp"
+    },
+    {
+     "piece": "Inkquisition",
+     "variant": "Gree",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/silly-monsters-inkquisition-gree.webp"
+    },
+    {
+     "piece": "Tear for Fears",
+     "variant": "Orangelo",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/silly-monsters-tear-for-fears-orangelo.webp"
+    },
+    {
+     "piece": "IC Dead Spirits",
+     "variant": "Bloo",
+     "source": "Manny's Remix\nMo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/silly-monsters-ic-dead-spirits-bloo.webp"
+    },
+    {
+     "piece": "IC Dead Spirits",
+     "variant": "Gree",
+     "source": "Manny's Remix\nMo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/silly-monsters-ic-dead-spirits-gree.webp"
+    },
+    {
+     "piece": "IC Dead Spirits",
+     "variant": "Peenk",
+     "source": "Manny's Remix\nMo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/silly-monsters-ic-dead-spirits-peenk.webp"
+    },
+    {
+     "piece": "IC Dead Spirits",
+     "variant": "Yelolo",
+     "source": "Manny's Remix\nMo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/silly-monsters-ic-dead-spirits-yelolo.webp"
+    },
+    {
+     "piece": "Nostrilsaurus",
+     "variant": "Bloo",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/silly-monsters-nostrilsaurus-bloo.webp"
+    },
+    {
+     "piece": "Nostrilsaurus",
+     "variant": "Gree",
+     "source": "Manny's Remix\nMo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/silly-monsters-nostrilsaurus-gree.webp"
+    },
+    {
+     "piece": "Nostrilsaurus",
+     "variant": "Purps",
+     "source": "Manny's Remix\nMo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/silly-monsters-nostrilsaurus-purps.webp"
+    },
+    {
+     "piece": "Nostrilsaurus",
+     "variant": "Yelolo",
+     "source": "Manny's Remix\nMo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/silly-monsters-nostrilsaurus-yelolo.webp"
+    }
+   ]
+  },
+  {
+   "name": "Singularity",
+   "note": null,
+   "items": [
+    {
+     "piece": "Chrono Mask",
+     "variant": "Dimensional",
+     "source": "Elite Merch",
+     "rarity": "Epic",
+     "image": "img/hats/singularity-chrono-mask-dimensional.webp"
+    },
+    {
+     "piece": "Chrono Mask",
+     "variant": "Sanded",
+     "source": "Singularity Premium Sprint",
+     "rarity": "Epic",
+     "image": "img/hats/singularity-chrono-mask-sanded.webp"
+    },
+    {
+     "piece": "Timecloth",
+     "variant": "Golden Hour",
+     "source": "Singularity Sprint",
+     "rarity": "Basic",
+     "image": "img/hats/singularity-timecloth-golden-hour.webp"
+    }
+   ]
+  },
+  {
+   "name": "Snowball",
+   "note": null,
+   "items": [
+    {
+     "piece": "Shiverskull",
+     "variant": "Frostbitten",
+     "source": "Elite Merch",
+     "rarity": "Basic",
+     "image": "img/hats/snowball-shiverskull-frostbitten.webp"
+    },
+    {
+     "piece": "Shiverskull",
+     "variant": "Snowcap",
+     "source": "Shop Offer ($$)",
+     "rarity": "Basic",
+     "image": "img/hats/snowball-shiverskull-snowcap.webp"
+    },
+    {
+     "piece": "Uppertusk Cap",
+     "variant": "Deep Freeze",
+     "source": "Elite Merch",
+     "rarity": "Basic",
+     "image": "img/hats/snowball-uppertusk-cap-deep-freeze.webp"
+    }
+   ]
+  },
+  {
+   "name": "Squid Blades",
+   "note": null,
+   "items": [
+    {
+     "piece": "Cephalopod",
+     "variant": "Headgear",
+     "source": "Squid Blades Premium Sprint",
+     "rarity": "Epic",
+     "image": "img/hats/squid-blades-cephalopod-headgear.webp"
+    },
+    {
+     "piece": "Sea Beanie",
+     "variant": "Jellyfish",
+     "source": "S2 Final Stretch Sprint",
+     "rarity": "Basic",
+     "image": "img/hats/squid-blades-sea-beanie-jellyfish.webp"
+    },
+    {
+     "piece": "Sea Beanie",
+     "variant": "Sea Foam",
+     "source": "Squid Blades Premium Sprint",
+     "rarity": "Basic",
+     "image": "img/hats/squid-blades-sea-beanie-sea-foam.webp"
+    }
+   ]
+  },
+  {
+   "name": "Street Droid",
+   "note": null,
+   "items": [
+    {
+     "piece": "Byteforce",
+     "variant": "Rubybyte",
+     "source": "Mo.Gold Gacha, Shop Offer",
+     "rarity": "Epic",
+     "image": "img/hats/street-droid-byteforce-rubybyte.webp"
+    },
+    {
+     "piece": "Byteforce",
+     "variant": "Solarbyte",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/street-droid-byteforce-solarbyte.webp"
+    },
+    {
+     "piece": "Debugger",
+     "variant": "Rubybyte",
+     "source": "Mo.Gold Gacha, Shop Offer",
+     "rarity": "Epic",
+     "image": "img/hats/street-droid-debugger-rubybyte.webp"
+    },
+    {
+     "piece": "Debugger",
+     "variant": "Solarbyte",
+     "source": "Mo.Gold Gacha,\nShop Offer (Mo.Gold)",
+     "rarity": "Epic",
+     "image": "img/hats/street-droid-debugger-solarbyte.webp"
+    }
+   ]
+  },
+  {
+   "name": "Storm Weaver",
+   "note": null,
+   "items": [
+    {
+     "piece": "Celestial Throne",
+     "variant": "Sapphire",
+     "source": "Shop Offer ($$, Mo.Gold)",
+     "rarity": "Legendary",
+     "image": "img/hats/storm-weaver-celestial-throne-sapphire.webp"
+    },
+    {
+     "piece": "Meridian Headband",
+     "variant": "Sapphire",
+     "source": "Storm Weaver Premium Sprint",
+     "rarity": "Epic",
+     "image": "img/hats/storm-weaver-meridian-headband-sapphire.webp"
+    },
+    {
+     "piece": "Moon Crescent Buns",
+     "variant": "Hushed Sapphire",
+     "source": "Storm Weaver Sprint",
+     "rarity": "Basic",
+     "image": "img/hats/storm-weaver-moon-crescent-buns-hushed-sapphire.webp"
+    }
+   ]
+  },
+  {
+   "name": "Street Medic",
+   "note": null,
+   "items": [
+    {
+     "piece": "Injecthead",
+     "variant": "Bruised",
+     "source": "Ch 2. Free Pass",
+     "rarity": "Epic",
+     "image": "img/hats/street-medic-injecthead-bruised.webp"
+    },
+    {
+     "piece": "Injecthead",
+     "variant": "Fever",
+     "source": "Manny's Remix",
+     "rarity": "Epic",
+     "image": "img/hats/street-medic-injecthead-fever.webp"
+    },
+    {
+     "piece": "Pill Cap",
+     "variant": "Bruised",
+     "source": "Manny's Remix",
+     "rarity": "Epic",
+     "image": "img/hats/street-medic-pill-cap-bruised.webp"
+    },
+    {
+     "piece": "Pill Cap",
+     "variant": "Nauseous",
+     "source": "Ch 2. Free Pass",
+     "rarity": "Epic",
+     "image": "img/hats/street-medic-pill-cap-nauseous.webp"
+    },
+    {
+     "piece": "Pulse Band",
+     "variant": "Nauseous",
+     "source": "Ch 2. Free Pass",
+     "rarity": "Basic",
+     "image": "img/hats/street-medic-pulse-band-nauseous.webp"
+    },
+    {
+     "piece": "Pulse Band",
+     "variant": "Fever",
+     "source": "Ch 2. Free Pass",
+     "rarity": "Basic",
+     "image": "img/hats/street-medic-pulse-band-fever.webp"
+    },
+    {
+     "piece": "Pulse Band",
+     "variant": "Frostbit",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/street-medic-pulse-band-frostbit.webp"
+    },
+    {
+     "piece": "Pulse Band",
+     "variant": "Scurvy",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/street-medic-pulse-band-scurvy.webp"
+    },
+    {
+     "piece": "Spit Blocker",
+     "variant": "Booger",
+     "source": "Ch 2. Free Pass",
+     "rarity": "Basic",
+     "image": "img/hats/street-medic-spit-blocker-booger.webp"
+    },
+    {
+     "piece": "Spit Blocker",
+     "variant": "Frostbit",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/street-medic-spit-blocker-frostbit.webp"
+    },
+    {
+     "piece": "Spit Blocker",
+     "variant": "Nauseous",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/street-medic-spit-blocker-nauseous.webp"
+    }
+   ]
+  },
+  {
+   "name": "Super Sentai",
+   "note": null,
+   "items": [
+    {
+     "piece": "Sparkleforce",
+     "variant": "Heart",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/super-sentai-sparkleforce-heart.webp"
+    },
+    {
+     "piece": "Sparkleforce",
+     "variant": "Soul",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/super-sentai-sparkleforce-soul.webp"
+    },
+    {
+     "piece": "Sparkleforce",
+     "variant": "Strength",
+     "source": "Pass",
+     "rarity": "Epic",
+     "image": "img/hats/super-sentai-sparkleforce-strength.webp"
+    }
+   ]
+  },
+  {
+   "name": "Techno Fists",
+   "note": null,
+   "items": [
+    {
+     "piece": "Neo Core",
+     "variant": "Hood",
+     "source": "Techno Fists Premium Sprint",
+     "rarity": "Basic",
+     "image": "img/hats/techno-fists-neo-core-hood.webp"
+    },
+    {
+     "piece": "Electro Pulse",
+     "variant": "Bandana",
+     "source": "Techno Fists Sprint",
+     "rarity": "Basic",
+     "image": "img/hats/techno-fists-electro-pulse-bandana.webp"
+    }
+   ]
+  },
+  {
+   "name": "Terry",
+   "note": null,
+   "items": [
+    {
+     "piece": "Cyber Shield",
+     "variant": "Rage Level",
+     "source": "R&D: Big-T Terry Pass",
+     "rarity": "Epic",
+     "image": "img/hats/terry-cyber-shield-rage-level.webp"
+    },
+    {
+     "piece": "Cyber Shield",
+     "variant": "Remember Teal",
+     "source": "Shop Offer (MoGold)",
+     "rarity": "Epic",
+     "image": "img/hats/terry-cyber-shield-remember-teal.webp"
+    }
+   ]
+  },
+  {
+   "name": "Venom Bow",
+   "note": null,
+   "items": [
+    {
+     "piece": "Barb, Prickly Poison Queen",
+     "variant": "Faded Beauty",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Legendary",
+     "image": "img/hats/venom-bow-barb-prickly-poison-queen-faded-beauty.webp"
+    },
+    {
+     "piece": "Scorpionic",
+     "variant": "Hornband",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/venom-bow-scorpionic-hornband.webp"
+    },
+    {
+     "piece": "Toxhead",
+     "variant": "Venom Enforcer",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/venom-bow-toxhead-venom-enforcer.webp"
+    },
+    {
+     "piece": "Toxhead",
+     "variant": "Vibrant Sting",
+     "source": "Shop Offer (Mo.Gold)",
+     "rarity": "Epic",
+     "image": "img/hats/venom-bow-toxhead-vibrant-sting.webp"
+    },
+    {
+     "piece": "Toxic Cap",
+     "variant": "Venom Enforcer",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/venom-bow-toxic-cap-venom-enforcer.webp"
+    },
+    {
+     "piece": "Toxic Cap",
+     "variant": "Vibrant Sting",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/venom-bow-toxic-cap-vibrant-sting.webp"
+    }
+   ]
+  },
+  {
+   "name": "Vibe Shifter",
+   "note": null,
+   "items": [
+    {
+     "piece": "Heel Turn Healer",
+     "variant": "Scrub Red",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Legendary",
+     "image": "img/hats/vibe-shifter-heel-turn-healer-scrub-red.webp"
+    },
+    {
+     "piece": "Sharp Cap",
+     "variant": "Black Bile",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/vibe-shifter-sharp-cap-black-bile.webp"
+    },
+    {
+     "piece": "Sharp Cap",
+     "variant": "Scrub Red",
+     "source": "Shop Offer",
+     "rarity": "Epic",
+     "image": "img/hats/vibe-shifter-sharp-cap-scrub-red.webp"
+    },
+    {
+     "piece": "Binaural Blasters",
+     "variant": "Ashen",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/vibe-shifter-binaural-blasters-ashen.webp"
+    },
+    {
+     "piece": "Binaural Blasters",
+     "variant": "Scrub Red",
+     "source": "Vibe Shifter Premium Sprint",
+     "rarity": "Basic",
+     "image": "img/hats/vibe-shifter-binaural-blasters-scrub-red.webp"
+    },
+    {
+     "piece": "Team Dragon",
+     "variant": "Blurple",
+     "source": "Vibe Shifter Sprint",
+     "rarity": "Basic",
+     "image": "img/hats/vibe-shifter-team-dragon-blurple.webp"
+    },
+    {
+     "piece": "Team Dragon",
+     "variant": "Calm Eyes",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/vibe-shifter-team-dragon-calm-eyes.webp"
+    }
+   ]
+  },
+  {
+   "name": "Warriors of Light",
+   "note": null,
+   "items": [
+    {
+     "piece": "Seer of the Beasthorn",
+     "variant": "Kermes Crimson",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Legendary",
+     "image": "img/hats/warriors-of-light-seer-of-the-beasthorn-kermes-crimson.webp"
+    },
+    {
+     "piece": "Seer of the Beasthorn",
+     "variant": "Ivory Milk",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Legendary",
+     "image": "img/hats/warriors-of-light-seer-of-the-beasthorn-ivory-milk.webp"
+    },
+    {
+     "piece": "Spirit Finder",
+     "variant": "Kermes Crimson",
+     "source": "Mo.Gold Gacha\nShop Offer",
+     "rarity": "Epic",
+     "image": "img/hats/warriors-of-light-spirit-finder-kermes-crimson.webp"
+    },
+    {
+     "piece": "Spirit Finder",
+     "variant": "Savannah Smoke",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/warriors-of-light-spirit-finder-savannah-smoke.webp"
+    },
+    {
+     "piece": "Wrapped",
+     "variant": "Azure",
+     "source": "Mo.Gold Gacha\nManny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/warriors-of-light-wrapped-azure.webp"
+    },
+    {
+     "piece": "Wrapped",
+     "variant": "Emerald",
+     "source": "Mo.Gold Gacha\nManny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/warriors-of-light-wrapped-emerald.webp"
+    },
+    {
+     "piece": "Wrapped",
+     "variant": "Obsidian",
+     "source": "Mo.Gold Gacha\nManny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/warriors-of-light-wrapped-obsidian.webp"
+    },
+    {
+     "piece": "Wrapped",
+     "variant": "Topaz",
+     "source": "Mo.Gold Gacha\nManny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/warriors-of-light-wrapped-topaz.webp"
+    }
+   ]
+  },
+  {
+   "name": "Wayward Warrior",
+   "note": null,
+   "items": [
+    {
+     "piece": "Chillborn Chieftan",
+     "variant": "Frosted Gold",
+     "source": "Neo Moco Rewards",
+     "rarity": "Legendary",
+     "image": "img/hats/wayward-warrior-chillborn-chieftan-frosted-gold.webp"
+    },
+    {
+     "piece": "Bandalf",
+     "variant": "Gauzette",
+     "source": "Manny's Remix",
+     "rarity": "Epic",
+     "image": "img/hats/wayward-warrior-bandalf-gauzette.webp"
+    },
+    {
+     "piece": "Bandalf",
+     "variant": "Wrappuchino",
+     "source": "Manny's Remix\nPass",
+     "rarity": "Epic",
+     "image": "img/hats/wayward-warrior-bandalf-wrappuchino.webp"
+    },
+    {
+     "piece": "Bandalf",
+     "variant": "Wrapsicle",
+     "source": "Manny's Remix, Shop Offer",
+     "rarity": "Epic",
+     "image": "img/hats/wayward-warrior-bandalf-wrapsicle.webp"
+    },
+    {
+     "piece": "Bushido of the Unbroken Oath",
+     "variant": "Greeeen",
+     "source": "1st Anniversary Shop Offer",
+     "rarity": "Epic",
+     "image": "img/hats/wayward-warrior-bushido-of-the-unbroken-oath-greeeen.webp"
+    },
+    {
+     "piece": "Bushido of the Unbroken Oath",
+     "variant": "Reeeed",
+     "source": "Manny's Remix, Pass",
+     "rarity": "Epic",
+     "image": "img/hats/wayward-warrior-bushido-of-the-unbroken-oath-reeeed.webp"
+    },
+    {
+     "piece": "Cost me Arm & Leg",
+     "variant": "Seaweed Swagger",
+     "source": "Pass, Level 25 Shop Offer",
+     "rarity": "Epic",
+     "image": "img/hats/wayward-warrior-cost-me-arm-leg-seaweed-swagger.webp"
+    },
+    {
+     "piece": "Cost me Arm & Leg",
+     "variant": "Sunken Gold",
+     "source": "Manny's Remix",
+     "rarity": "Epic",
+     "image": "img/hats/wayward-warrior-cost-me-arm-leg-sunken-gold.webp"
+    },
+    {
+     "piece": "Over 9000!",
+     "variant": "Color Me Impressed Black",
+     "source": "Manny's Remix",
+     "rarity": "Epic",
+     "image": "img/hats/wayward-warrior-over-9000-color-me-impressed-black.webp"
+    },
+    {
+     "piece": "Over 9000!",
+     "variant": "Color Me Impressed Blue",
+     "source": "Manny's Remix",
+     "rarity": "Epic",
+     "image": "img/hats/wayward-warrior-over-9000-color-me-impressed-blue.webp"
+    },
+    {
+     "piece": "Over 9000!",
+     "variant": "Color Me Impressed Orange",
+     "source": "Manny's Remix",
+     "rarity": "Epic",
+     "image": "img/hats/wayward-warrior-over-9000-color-me-impressed-orange.webp"
+    },
+    {
+     "piece": "Over 9000!",
+     "variant": "Color Me Impressed Pink",
+     "source": "Manny's Remix",
+     "rarity": "Epic",
+     "image": "img/hats/wayward-warrior-over-9000-color-me-impressed-pink.webp"
+    },
+    {
+     "piece": "Baron von Bargain Bin",
+     "variant": "Crown Crayon",
+     "source": "Manny's Remix\nShop Offer",
+     "rarity": "Basic",
+     "image": "img/hats/wayward-warrior-baron-von-bargain-bin-crown-crayon.webp"
+    },
+    {
+     "piece": "Baron von Bargain Bin",
+     "variant": "Grape Royale",
+     "source": "Pass / Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/wayward-warrior-baron-von-bargain-bin-grape-royale.webp"
+    },
+    {
+     "piece": "Baron von Bargain Bin",
+     "variant": "Winter Sale",
+     "source": "S6 Grape Royale Sprint",
+     "rarity": "Basic",
+     "image": "img/hats/wayward-warrior-baron-von-bargain-bin-winter-sale.webp"
+    },
+    {
+     "piece": "Branch Manager",
+     "variant": "Fall",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/wayward-warrior-branch-manager-fall.webp"
+    },
+    {
+     "piece": "Branch Manager",
+     "variant": "Spring",
+     "source": "S5 Sprint: Branch Manager",
+     "rarity": "Basic",
+     "image": "img/hats/wayward-warrior-branch-manager-spring.webp"
+    },
+    {
+     "piece": "Branch Manager",
+     "variant": "Summer",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/wayward-warrior-branch-manager-summer.webp"
+    },
+    {
+     "piece": "Branch Manager",
+     "variant": "Winter",
+     "source": "Manny's Remix",
+     "rarity": "Basic",
+     "image": "img/hats/wayward-warrior-branch-manager-winter.webp"
+    }
+   ]
+  },
+  {
+   "name": "Wolf Stick",
+   "note": null,
+   "items": [
+    {
+     "piece": "Twisted Seraphim",
+     "variant": "Jade Ghost",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Legendary",
+     "image": "img/hats/wolf-stick-twisted-seraphim-jade-ghost.webp"
+    },
+    {
+     "piece": "Twisted Seraphim",
+     "variant": "Sunflare",
+     "source": "Wolf Stick Premium Sprint",
+     "rarity": "Legendary",
+     "image": "img/hats/wolf-stick-twisted-seraphim-sunflare.webp"
+    },
+    {
+     "piece": "Honed Horns",
+     "variant": "Sky High",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/wolf-stick-honed-horns-sky-high.webp"
+    },
+    {
+     "piece": "Honed Horns",
+     "variant": "Sunflare",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Epic",
+     "image": "img/hats/wolf-stick-honed-horns-sunflare.webp"
+    },
+    {
+     "piece": "Skull Cap",
+     "variant": "Shop Offer (Mo.Gold)",
+     "source": "Shop Offer (Mo.Gold)",
+     "rarity": "Epic",
+     "image": "img/hats/wolf-stick-skull-cap-shop-offer-mo-gold.webp"
+    },
+    {
+     "piece": "Comfy Visor",
+     "variant": "Jade Ghost",
+     "source": "Wolf Stick Sprint",
+     "rarity": "Basic",
+     "image": "img/hats/wolf-stick-comfy-visor-jade-ghost.webp"
+    },
+    {
+     "piece": "Comfy Visor",
+     "variant": "Sky High",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/wolf-stick-comfy-visor-sky-high.webp"
+    },
+    {
+     "piece": "Winglet Cap",
+     "variant": "Sky High",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/wolf-stick-winglet-cap-sky-high.webp"
+    },
+    {
+     "piece": "Winglet Cap",
+     "variant": "Sunflare",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/wolf-stick-winglet-cap-sunflare.webp"
+    }
+   ]
+  },
+  {
+   "name": "YRSA",
+   "note": null,
+   "items": [
+    {
+     "piece": "Brrsuit",
+     "variant": "Midnight Sun",
+     "source": "Pass",
+     "rarity": "Epic",
+     "image": "img/hats/yrsa-brrsuit-midnight-sun.webp"
+    },
+    {
+     "piece": "Brrsuit",
+     "variant": "Polar Night",
+     "source": "Pass",
+     "rarity": "Epic",
+     "image": "img/hats/yrsa-brrsuit-polar-night.webp"
+    },
+    {
+     "piece": "Chill Time",
+     "variant": "Aurora",
+     "source": "Pass",
+     "rarity": "Basic",
+     "image": "img/hats/yrsa-chill-time-aurora.webp"
+    },
+    {
+     "piece": "Chill Time",
+     "variant": "Icecap",
+     "source": "Pass",
+     "rarity": "Basic",
+     "image": "img/hats/yrsa-chill-time-icecap.webp"
+    },
+    {
+     "piece": "Chill Time",
+     "variant": "Tundra",
+     "source": "Pass",
+     "rarity": "Basic",
+     "image": "img/hats/yrsa-chill-time-tundra.webp"
+    },
+    {
+     "piece": "Chill Time",
+     "variant": "Yellow Snow",
+     "source": "Pass",
+     "rarity": "Basic",
+     "image": "img/hats/yrsa-chill-time-yellow-snow.webp"
+    }
+   ]
+  },
+  {
+   "name": "Zosar",
+   "note": null,
+   "items": [
+    {
+     "piece": "Zosarian Raimant",
+     "variant": "Golden Sun",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Legendary",
+     "image": "img/hats/zosar-zosarian-raimant-golden-sun.webp"
+    },
+    {
+     "piece": "Nile Prince",
+     "variant": "Amethyst",
+     "source": "Pass",
+     "rarity": "Basic",
+     "image": "img/hats/zosar-nile-prince-amethyst.webp"
+    },
+    {
+     "piece": "Nile Prince",
+     "variant": "Emarald",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/zosar-nile-prince-emarald.webp"
+    },
+    {
+     "piece": "Nile Prince",
+     "variant": "Gold",
+     "source": "Mo.Gold Gacha",
+     "rarity": "Basic",
+     "image": "img/hats/zosar-nile-prince-gold.webp"
+    },
+    {
+     "piece": "Nile Prince",
+     "variant": "Obsidian",
+     "source": "Pass",
+     "rarity": "Basic",
+     "image": "img/hats/zosar-nile-prince-obsidian.webp"
+    }
+   ]
+  }
+ ]
+}
